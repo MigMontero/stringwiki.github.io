@@ -1,0 +1,52 @@
+site_name: String Theory Wiki
+site_description: Resources for learning string theory
+site_url: https://stringwiki.org
+
+theme:
+  name: material
+  language: en
+  logo: assets/string-cropped.jpg
+  favicon: assets/string-cropped.jpg
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Conferences: conferences.md
+  - Physics topics:
+      - String theory: string-theory.md
+      - String theory for non-physicists: string-theory-for-non-physicists.md
+      - AdS/CFT correspondence: the-ads-cft-correspondence.md
+      - Cosmology: cosmology.md
+      - Quantum gravity: quantum-gravity.md
+      - Supersymmetry and supergravity: supersymmetry-and-supergravity.md
+  - Other resources:
+      - Institutions: institutions.md
+      - Mathematics and computers: mathematics-and-computers.md
+      - Online talks: online-talks.md
+      - Other important links: other-important-links.md
+  - About:
+      - About and licence: meta.md
+      - Contributing: contributing.md

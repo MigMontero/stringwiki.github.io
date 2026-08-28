@@ -1,0 +1,10 @@
+# Local migration inputs and personal notes: do not publish these.
+*.xml.gz
+*.org
+\#*\#
+string-cropped.jpg
+
+# Local build artefacts.
+.venv/
+site/
+__pycache__/
