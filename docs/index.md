@@ -8,6 +8,8 @@ Welcome to the String Theory Wiki! This wiki is aimed at students learning strin
 
 This site is updated through GitHub pull requests. See [Contributing](contributing.md) to suggest a change.
 
+The [list of conferences](conferences.md) is regularly updated.
+
 ### physics topics
 
 * [String theory for non-physicists](string-theory-for-non-physicists.md)
@@ -71,4 +73,4 @@ This site is updated through GitHub pull requests. See [Contributing](contributi
 * [Online talks](online-talks.md)
 * [Other important links](other-important-links.md)
 
-This wiki was set up by members of the [Centre for Research in String Theory](http://www.strings.ph.qmul.ac.uk/) at Queen Mary, University of London, but does not represent the views of the Centre or the University, etc.
+This wiki was initially set up in 2006 by members of the [Centre for Research in String Theory](http://www.strings.ph.qmul.ac.uk/) at Queen Mary, University of London, but does not represent the views of the Centre or the University, etc.
