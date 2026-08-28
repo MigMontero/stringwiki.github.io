@@ -60,6 +60,11 @@ GGI, Florence (Italy), 5 April - 7 May 2027
 [Iberian Strings 2027](https://sites.google.com/view/iberianstrings2027/home?authuser=3)   
 Instituto Superior Técnico, Lisbon (Portugal), 19-21 January 2027
 
+[Large N: Resurgent vs Erratic?] (https://indico.cern.ch/event/1715083/)
+CERN, Geneva (Switzerland), 18-22 January 2027
+
+
+
 ## 2026
 [String Data 2026](https://rakkyeongseong.github.io/stringdata2026/)  
 Ulsan National Institute of Science and Technology (UNIST), Ulsan (South Korea), 9 - 11 December 2026
