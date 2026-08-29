@@ -4,10 +4,14 @@ title: Contributing
 
 # Contributing
 
-This site is maintained in GitHub. To suggest a correction or add a resource:
+This site is maintained as a [GitHub Page](https://docs.github.com/en/pages) located in the [stringwiki repository](https://github.com/stringwiki/stringwiki.github.io).
 
-1. Open the relevant file in the repository's `docs/` directory.
-2. Make the change in Markdown and describe it clearly in the pull request.
+
+To suggest a correction or add a resource:
+
+1. Create and/or log in to your [GitHub account](https://github.com/signup).
+2. Navigate to the [stringwiki repository](https://github.com/stringwiki/stringwiki.github.io) and open the relevant file in the repository's `docs/` directory.
+2. Make the change in [Markdown](https://www.markdownguide.org/cheat-sheet/) and describe it clearly in the pull request.
 3. A maintainer will review and publish the change.
 
 For a larger change, open an issue first so that the proposed structure can be discussed.

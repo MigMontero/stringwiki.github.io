@@ -6,9 +6,11 @@ title: 'String Theory Wiki'
 
 Welcome to the String Theory Wiki! This wiki is aimed at students learning string theory.  It lists and reviews useful string theory resources, such as books and review papers.  The content was initially based on Alberto Guijosa Hidalgo's [list of string reviews](http://www.nuclecu.unam.mx/~alberto/physics/stringrev.html).
 
-This site is updated through GitHub pull requests. See [Contributing](contributing.md) to suggest a change.
-
 The [list of conferences](conferences.md) is regularly updated.
+
+See [Contributing](contributing.md) to suggest a change.
+
+NB: The String Theory Wiki has moved from [stringwiki.org](https://stringwiki.org/) to [stringwiki.github.io](https://stringwiki.github.io/). Please update your bookmarks.
 
 ### physics topics
 
@@ -72,5 +74,3 @@ The [list of conferences](conferences.md) is regularly updated.
 * [Mathematics and computers](mathematics-and-computers.md)
 * [Online talks](online-talks.md)
 * [Other important links](other-important-links.md)
-
-This wiki was initially set up in 2006 by members of the [Centre for Research in String Theory](http://www.strings.ph.qmul.ac.uk/) at Queen Mary, University of London, but does not represent the views of the Centre or the University, etc.

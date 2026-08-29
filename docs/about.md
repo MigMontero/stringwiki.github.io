@@ -1,8 +1,8 @@
 ---
-title: 'Meta'
+title: 'About'
 ---
 
-# Meta
+# About
 
 ## Purpose
 The sole purpose of this website is to be useful for people learning string theory.  It has no commercial ambitions and will never host advertising.
@@ -38,9 +38,9 @@ We thank:
 
 ## History
 
-The String Theory Wiki was originally set up in 2006 by [Tom
+The String Theory Wiki was originally set up in December 2006 by [Tom
 Brown](https://nworbmot.org/) as a
-[mediawiki](https://www.mediawiki.org/) instance. In 2026 it was
-migrated to a GitHub page, since this is easier to maintain. Stefan
-Fredenhagen is now the main curator, since Tom Brown left physics in
-2011.
+[mediawiki](https://www.mediawiki.org/) instance. In August 2026 it
+was migrated to a [GitHub Page](https://docs.github.com/en/pages), since this is easier to
+maintain. [Stefan Fredenhagen](https://homepage.univie.ac.at/stefan.fredenhagen/) is now the main curator, since Tom Brown
+left physics in 2011.
