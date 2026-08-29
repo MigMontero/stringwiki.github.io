@@ -4,6 +4,7 @@ site_url: https://stringwiki.github.io
 
 theme:
   name: material
+  custom_dir: overrides
   language: en
   logo: assets/string-cropped.jpg
   favicon: assets/string-cropped.jpg
