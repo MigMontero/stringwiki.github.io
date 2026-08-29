@@ -3074,21 +3074,2021 @@ Hong Kong (China), 5-30 January 2015
 [The 32nd Jerusalem Winter School in Theoretical Physics - 100 years of General Relativity](http://www.as.huji.ac.il/schools/phys32)  
 Jerusalem (Israel), 29 December 2014 - 8 January 2015
 
-## Past Conferences
-[Past Conferences in 2014](past-conferences-in-2014.md)
+## 2014
 
-[Past Conferences in 2013](past-conferences-in-2013.md)
 
-[Past Conferences in 2012](past-conferences-in-2012.md)
+[Xmas Theoretical Physics Workshop](https://sites.google.com/site/xmasathens2014/)  
+Athens (Greece), 19 December 2014
 
-[Past Conferences in 2011](past-conferences-in-2011.md)
+[The Primordial Universe after Planck](http://www.iap.fr/col2014)  
+Paris (France), 15-19 December 2014
 
-[Past Conferences in 2010](past-conferences-in-2010.md)
+[CERN-CKC TH Institute on Numerical Holography](https://indico.cern.ch/event/309107/)  
+Geneva (Switzerland), 8-18 December 2014
 
-[Past Conferences in 2009](past-conferences-in-2009.md)
+[Grassmannian Geometry of Scattering Amplitudes](https://sites.google.com/site/grassmannian2014//)  
+California (USA), 8-12 December 2014
 
-[Past Conferences in 2008](past-conferences-in-2008.md)
+[Higher Spin Theory and Holography](http://www.hsth.lpi.ru/)  
+Moscow (Russia), 8-10 December 2014
 
-[Past Conferences in 2007](past-conferences-in-2007.md)
+[Discrete 2014](https://indico.cern.ch/event/328215/overview)  
+London (UK), 2-6 December 2014
 
-[Past Conferences up to 2006](past-conferences-up-to-2006.md)
+[Seventh Taiwan String Workshop](http://phys.cts.ntu.edu.tw/workshop/2014/1124string/)  
+Taipei (Taiwan), 24th-28th November, 2014
+
+[LACES 2014](http://laces.web.cern.ch/laces/LACES14/index14.html)  
+Florence (Italy), 24 November - 12 December 2014
+
+[IAS Focused Program Scattering Amplitudes in Hong Kong](http://iasprogram.ust.hk/201411amp/)  
+Hong Kong (China), 17 - 21 November 2014
+
+[Dark Side of the Universe 2014](http://www.acgc.uct.ac.za/dsu2014/)  
+Cape Town (South Africa), 17-21 November 2014
+
+[New trends in generalized geometry and Poisson geometry](http://www.icmat.es/congresos/2014/gp/)  
+Madrid (Spain), 12-15 November 2014
+
+[Exceptional Symmetries and Emerging Spacetime](http://www.ntu.edu.sg/ias/upcomingevents/ESES14/Pages/default.aspx)  
+Singapore (Singapore), 10-12 November 2014
+
+[III Postgraduate Meeting on Fundamental Physics](http://igfae.usc.es/imfp2014)  
+Santiago de Compostela (Spain), 6-7 November 2014
+
+[The 6th KIAS Workshop on Cosmology and Structure Formation](http://home.kias.re.kr/MKG/h/cosmology2014/)  
+Seoul (South Korea), 3-7 November 2014
+
+[The 4th KIAS Workshop on Particle Physics and Cosmology](http://home.kias.re.kr/MKG/h/Pheno4/?pageNo=752)  
+Seoul (South Korea), 27-31 October 2014
+
+[Workshop on String Theory and its Applications](http://indico.ihep.ac.cn/conferenceDisplay.py?confId=4351)  
+Beijing (China), 27-30 October 2014
+
+[Joint ERC workshop on Superfields, Selfcompletion and Strings & Gravity](http://homepages.physik.uni-muenchen.de/~Michael.Haack/ERC_2014/Home.html)  
+Munich (Germany), 22-24 October 2014
+
+[Lectures on Supersymmetry and Supergravity in Curved Spaces and Superspaces](http://workshops.ift.uam-csic.es/iftw.php/ws/168)  
+Madrid (Spain), 14-30 October 2014
+
+[Fine-tuning, Anthropics, and the String Landscape](http://workshops.ift.uam-csic.es/iftw.php/ws/anthropic/home)  
+Madrid (Spain), 8-10 October 2014
+
+[6th Bethe Center Workshop: Topological Strings and Applications](http://bctp.uni-bonn.de/workshop2014/)  
+Bonn (Germany), 29 September - 3 October 2014
+
+[DESY Theory Workshop: Particle Cosmology after Planck](http://th-workshop2014.desy.de/)  
+Hamburg (Germany), 23-26 September 2014
+
+[Frontiers in field and string theory](http://conf.theorphyslab-ysu.info/index.php?page=main.html)  
+Yerevan (Armenia), 22-26 September 2014
+
+[20th European Workshop on String Theory](https://indico.mitp.uni-mainz.de/conferenceDisplay.py?confId=15)  
+Mainz (Germany), 22-26 September 2014
+
+[Autumn Symposium on String/M Theory](http://home.kias.re.kr/MKG/h/FWST2014/)  
+Seoul (Korea), 22-26 September 2014
+
+[IV Workshop on Geometric Correspondences of Gauge Theories](http://people.sissa.it/~bonelli/workshops/ws14/index.html)  
+Trieste (Italy), 15-19 September 2014
+
+[Workshop on Quantum Fields and Strings](http://www.physics.ntua.gr/corfu2014/st.html)  
+Corfu (Greece), 14-21 September 2014
+
+[Conceptual and Technical Challenges for Quantum Gravity 2014](http://ctcqg2014.relativerest.org/)  
+Rome (Italy), 8-12 September 2014
+
+[Special Geometric Structures in Mathematics and Physics](http://www.math.uni-hamburg.de/sgstructures/)  
+Hamburg (Germany), 8-12 September 2014
+
+[Workshop on Dark Energy](http://www.physics.ntua.gr/corfu2014/we.html)  
+Corfu (Greece), 7-14 September 2014
+
+[School on Dark Energy and Galaxy Redshift Surveys](http://www.physics.ntua.gr/corfu2014/de.html)  
+Corfu (Greece), 3-14 September 2014
+
+[Summer School and Workshop on the Standard Model and Beyond](http://www.physics.ntua.gr/corfu2014/sm.html)  
+Corfu (Greece), 3-14 September 2014
+
+[BPS States, Hitchin Systems and Quivers](http://jmplyon2014.sciencesconf.org)  
+Lyon (France), 3-5 September 2014
+
+[International Fall Workshop on Geometry and Physics (IFWGP)](http://gigda.ugr.es/ifwgp2014/)  
+Granada (Spain), 2-5 September 2014
+
+[String theory and its applications](https://indico.mitp.uni-mainz.de/conferenceDisplay.py?confId=12)  
+Mainz (Germany), 1-26 September 2014
+
+[Saalburg Summer School: Foundations and New Methods in Theoretical Physics](http://www.itp.uni-hannover.de/saalburg/)  
+Wolfersdorf (Germany), 1-12 September 2014
+
+[Quantum Field Theory, String Theory, and Condensed Matter Physics](http://hep.physics.uoc.gr/regpot2014/)  
+Kolymbari (Crete/Greece), 1-7 September 2014
+
+[Symmetries and Fundamental Interactions](http://indico.mitp.uni-mainz.de/conferenceDisplay.py?ovw=True&confId=22)  
+Frauenchiemsee (Bavaria/Germany), 1-5 September 2014
+
+[Modave Summer School in Mathematical Physics](http://www.ulb.ac.be/sciences/ptm/pmif/Rencontres/ModaveX/index.html)  
+Modave (Belgium), 1-5 September 2014
+
+[ICTP-SAIFR School on Random Geometry and Random Matrices](http://www.ictp-saifr.org/?page_id=5949)  
+Sao Paulo (Brazil), 25 August - 5 September 2014
+
+[Current Themes in High Energy Physics and Cosmology](https://indico.nbi.ku.dk/conferenceDisplay.py?confId=699)  
+Copenhagen (Denmark), 25-29 August 2014
+
+[Holographic Methods and Applications](http://agenda.albanova.se/conferenceDisplay.py?confId=4191)  
+Reykjavík (Iceland), 18-22 August 2014
+
+[New Trends in Quantum Integrability](http://personal.maths.surrey.ac.uk/st/A.Torrielli/qint2014)  
+Guildford (UK), 18-22 August 2014
+
+[Zuoz Summer School: More than Higgs - Effective theories for particle physics](http://www.psi.ch/ltp/zuoz-school)  
+Zuoz (Switzerland), 17-23 August 2014
+
+[Supersymmetric Field Theories](http://www.nordita.org/susy2014)  
+Stockholm (Sweden), 13-16 August 2014
+
+[Exact Results in SUSY Gauge Theories in Various Dimensions](https://indico.cern.ch/event/292089/)  
+Geneva (Switzerland), 11-22 August 2014
+
+[Summer School: Strings and fundamental physics](http://www.theorie.physik.uni-muenchen.de/activities/schools/asc_school_14/index.html)  
+Munich (Germany), 11-22 August 2014
+
+[Riemann workshop on Gauge Theories in Higher Dimensions](http://riemanncenter.de/workshop2014.html)  
+Hannover (Germany), 11-14 August 2014
+
+[Nordita School on Integrability](http://www.nordita.org/integrability2014)  
+Stockholm (Sweden), 4-12 August 2014
+
+[Quantum Field Theory and Gravity](http://qftg2014.tspu.edu.ru/)  
+Tomsk (Russia), 28 July - 3 August 2014
+
+[String Geometry and Loop Spaces](http://www.math-inf.uni-greifswald.de/~waldorf/loopspaces/)  
+Greifswald (Germany), 28 July - 1 August 2014
+
+[String Field Theory and Related Aspects VI, SFT 2014](http://www.sissa.it/tpp/activity/conferences/SFT2014/index.php)  
+Trieste (Italy), 28 July - 1 August 2014
+
+[SUSY 2014](http://www.susy2014.manchester.ac.uk/index.html)  
+Manchester (UK), 21-26 July 2014
+
+[Introductory School in String Field Theory and Higher Spin Theory](http://www.sissa.it/tpp/activity/conferences/SFT2014/index.php)  
+Trieste (Italy), 21-26 July 2014
+
+[Summer school on Quantum Groups and Integrability - Algebraic, Analytic and Geometric Aspects](http://grk1670.math.uni-hamburg.de/q-alg2014)  
+Hamburg (Germany), 21-25 July 2014
+
+[Recent Developments in String Theory](http://string14.itp.phys.ethz.ch)  
+Ascona (Switzerland), 21-25 July 2014
+
+[String theory and holography summer school](http://faraday.fc.up.pt/cfp-pages/School/index.html)  
+Lisbon/Porto (Portugal), 14-26 July 2014
+
+[Integrability in Gauge and String Theory](https://indico.desy.de/conferenceDisplay.py?ovw=True&confId=9316)  
+Hamburg (Germany), 14-18 July 2014
+
+[30th International Colloquium on Group Theoretical Methods in Physics](http://www.group30.ugent.be/)  
+Ghent (Belgium), 14-18 July 2014
+
+[Exact Quantum Fields and the Structure of M-theory](http://hep.physics.uoc.gr/workshop2014/Home.html)  
+Heraklion (Crete/Greece), 10-16 July 2014
+
+[String Phenomenology](http://stringpheno2014.ictp.it/)  
+Trieste (Italy), 7-11 July 2014
+
+[XXXIII Max Born Symposium: Noncommutative geometry, quantum symmetries and quantum gravity](http://ift.uni.wroc.pl/~mborn33/)  
+Wroclaw (Poland), 6-10 July 2014
+
+[Resurgence and Transseries in Quantum, Gauge and String Theories](http://indico.cern.ch/conferenceDisplay.py?ovw=True&confId=285619)  
+Geneva (Switzerland), 30 June - 4 July 2014
+
+[F-Theory Short Course](http://www.grk1463.uni-hannover.de/details_shortcourse_ftheory.htm)  
+Hannover (Germany), 30 June - 3 July 2014
+
+[Integrable systems and quantum symmetries](http://km.fjfi.cvut.cz/intsystems/)  
+Prague (Czech Republic), 23-29 June 2014
+
+[Strings 2014](http://physics.princeton.edu/strings2014/Home.shtml)  
+Princeton (USA), 23-28 June 2014
+
+[Prospects in Theoretical Physics: String Theory](https://pitp2014.ias.edu/)  
+Princeton (USA), 16-20 June 2014
+
+[Riemann Master School on Zeta Functions](http://riemanncenter.de/school2014.html)  
+Hannover (Germany), 10-14 June 2014
+
+[Non-geometry, Asymmetric Orbifolds and Model Building](https://indico.desy.de/conferenceDisplay.py?confId=9555)  
+Bonn (Germany), 10-13 June 2014
+
+[String-Math 2014](https://sites.google.com/a/ualberta.ca/stringmath2014/)  
+Edmonton (Canada), 9-13 June 2014
+
+[Amplitudes 2014, a Claude Itzykson memorial conference](http://ipht.cea.fr/Meetings/Itzykson2014/index.php)  
+Saclay (France), 9-14 June 2014
+
+[Cargèse Summer Institute on String Theory](http://www.lpthe.jussieu.fr/cargese/)  
+Cargèse (France), 2-14 June 2014
+
+[Discrete Symmetries and their Stringy Origin](https://indico.desy.de/conferenceDisplay.py?confId=9555)  
+Bonn (Germany), 2-6 June 2014
+
+[Applications of gauge/gravity duality](http://www.chalmers.se/en/conference/Applications-of-gauge-gravity-duality/Pages/default.aspx)  
+Gothenburg (Sweden), 2-4 June 2014
+
+[MOST - Mathematics of String Theory](http://www.mth.kcl.ac.uk/~ss299/MOST/)  
+London (UK), 2-3 June 2014
+
+[Quantum Gravity, Black holes and Strings](http://www.kitpc.ac.cn/?p=ProgDetail&id=PG20140526&i=main)  
+Beijing (China), 26 May -04 July 2014
+
+[Planck 2014](https://indico.cern.ch/conferenceDisplay.py?confId=272860)  
+Paris (France), 26-30 May 2014
+
+[Contemporary methods in quantum field theory](http://phsites.technion.ac.il/contemporary-methods-in-quantum-field-theory/)  
+Haifa (Israel), 25-29 May 2014
+
+[Workshop on Primordial Gravitational Waves and Cosmology](http://cmbpolarization.weebly.com/)  
+Pasadena (USA), 16-17 May 2014
+
+[Heidelberg Lecture Series on Mathematics and Physics: Spectral networks and their uses](http://www.thphys.uni-heidelberg.de/~pmp/neitzke_lecture.html)  
+Heidelberg (Germany), 13-15 May 2014
+
+[stringtheory.pl/2014](http://stringtheory.pl/2014/)  
+Warsaw (Poland), 25-27 April 2014
+
+[From Classical to Quantum GR: Applications to cosmology](http://www.sussex.ac.uk/physics/newsandevents/classicalquantumgr)  
+Brighton (UK), 23-25 April 2014
+
+[Solvay Workshop on "Holography for Black Holes and Cosmology"](http://www.solvayinstitutes.be/events/holography_for_black_holes/holography_for_black_holes.html)  
+Brussels (Belgium), 14-18 April 2014
+
+[Geometry and Fluids](http://www.claymath.org/events/geometry-and-fluids)  
+Oxford (UK), 7-11 April 2014
+
+[Holographic Inhomogeneities](http://www.d-itp.nl/shared-content/events/workshops/2014/04/holographic-inhomogeneities.html)  
+Amsterdam (Netherlands), 7-9 April 2014
+
+[Spring School on Superstring Theory and Related Topics](http://cdsagenda5.ictp.trieste.it/full_display.php?ida=a13193)  
+Trieste (Italy), 31 March - 8 April 2014
+
+[New frontiers in dynamical gravity](http://www.ctc.cam.ac.uk/activities/adsgrav2014/?)  
+Cambridge (UK), 24-28 March 2014
+
+[DPG Spring meeting on Particle Physics](http://mainz14.dpg-tagungen.de/index.html?lang=en&)  
+Mainz (Germany), 24-28 March 2014
+
+[Bethe Forum: Lecture Series on Scattering Amplitudes](http://bctp.uni-bonn.de/bethe-forum/2014/amplitudes/)  
+Bonn (Germany), 17-21 March 2014
+
+[Introduction to String Theory: String Steilkurs - Part I](https://indico.desy.de/conferenceDisplay.py?confId=9529)  
+Hamburg (Germany), 17-21 March 2014
+
+[Quantum Gravity in Paris](http://workshops.aei.mpg.de/qgparis/)  
+Paris (France), 17-21 March 2014
+
+[Exotic Structures of Spacetime](http://www2.yukawa.kyoto-u.ac.jp/ws/2013/exoticstr.ws/registration.html)  
+Kyoto (Japan), 10-21 March 2014
+
+[Beyond the standard model](https://indico.desy.de/conferenceDisplay.py?confId=9526)  
+Bad Honnef (Germany), 10-13 March 2014
+
+[Automorphic Forms, Lie Algebras and String Theory](http://www.ihes.fr/~vanhove/Lille2014/index.html)  
+Lille (France), 3-6 March 2014
+
+[Geometry and Physics of F-Theory](http://www.match.uni-heidelberg.de/GPF/index.php)  
+Heidelberg (Germany), 24-27 February 2014
+
+[3rd IPM School and Workshop on Applied AdS/CFT](http://particles.ipm.ir/conferences/2014/3rd-adscft/index.jsp)  
+Tehran (Iran), 22-28 February 2014
+
+[Heidelberg Lecture Series on Families of elliptic curves with applications to physics](http://www.match.uni-heidelberg.de/GPF/lecture.php)  
+Heidelberg (Germany), 17-21 February 2014
+
+[CERN Winter School on Supergravity, Strings, and Gauge Theory 2014](https://indico.cern.ch/conferenceDisplay.py?confId=237741)  
+Geneva (Switzerland), 3-7 February 2014
+
+[Nordic String Meeting 2014](https://indico.desy.de/conferenceDisplay.py?ovw=True&confId=9424)  
+Potsdam (Germany), 3-4 February 2014
+
+[Iberian Strings 2014](http://workshops.ift.uam-csic.es/iftw.php/home/index)  
+Palencia (Spain), 29-31 January 2014
+
+[3rd Bangkok Workshop on High-Energy Theory](http://www.thaihep.phys.sc.chula.ac.th/BKK2014/)  
+Chulalongkorn University (Thailand), 20-24 January 2014
+
+[Black Holes and Quantum Information](http://www.weizmann.ac.il/stringuniverse/workshop)  
+Rehovot (Israel), 12-17 January 2014
+
+[The 31st Jerusalem Winter School in Theoretical Physics - Frontiers of Quantum Information Science](http://www.as.huji.ac.il/schools/phys31)  
+Jerusalem (Israel), 30 December 2013 - 9 January 2014
+
+## 2013
+
+
+[Sixth Annual Taiwan String Workshop](http://phys.cts.ntu.edu.tw/workshop/2013/1212string/)  
+Taipei (Taiwan), 12-15 December 2013
+
+[PASCOS 2013](http://www.phy.ncu.edu.tw/hep/pascos2013/)  
+Taipei (Taiwan), 20-26 November 2013
+
+[Strings, Cosmology and Gravity Student Conference 2013](https://sites.google.com/site/scgsc2013/home)  
+Munich (Germany), 7-9 November 2013
+
+[Workshop on Higher-Spin and Higher-Curvature Gravity](http://www.ictp-saifr.org/?page_id=2375)  
+Sao Paulo (Brazil), 4-7 November 2013
+
+[Solvay Workshop on Exploring Higher Energy Physics](http://www.solvayinstitutes.be/events/ExploringHigherEnergy2013/ExploringHigherEnergy2013.html)  
+Brussels (Belgium), 4-6 November 2013
+
+[II Postgraduate Meeting On Theoretical Physics](http://workshops.ift.uam-csic.es/iftw.php/home/index)  
+Madrid (Spain), 9-11 October 2013
+
+[Fundamental Physics, CMB and LSS in the light of Planck satellite and DES](http://workshops.ift.uam-csic.es/iftw.php/home)  
+Madrid (Spain), 7 October - 1 November 2013
+
+[Autumn School on Particle Physics and Cosmology](https://indico.desy.de/conferenceDisplay.py?confId=8075)  
+Göttingen (Germany), 7-11 October 2013
+
+[Number Theory and Physics](http://www.claymath.org/workshops/NTP/)  
+Oxford (UK), 30 September - 4 October 2013
+
+[Why m_H = 126 GeV?](http://workshops.ift.uam-csic.es/WMH126/)  
+Madrid (Spain), 25-27 September 2013
+
+[Holography and QCD - Recent progress and challenges](http://indico.ipmu.jp/indico/conferenceDisplay.py?ovw=True&confId=9)  
+Kashiwa (Japan), 24-28 September 2013
+
+[DESY Theory Workshop on Nonperturbative QFT: Methods and Applications](http://th-workshop2013.desy.de/)  
+Hamburg (Germany), 24-27 September 2013
+
+[Computational Number Theory, Geometry and Physics](http://www.claymath.org/workshops/CNTGP/)  
+Oxford (UK), 23-29 September 2013
+
+[Holography: From Gravity to Quantum Matter](http://www.newton.ac.uk/programmes/HOL/holw01.shtml)  
+Cambridge (UK), 16-20 September 2013
+
+[Quantum Gravity in the Southern Cone VI](http://www.ictp-saifr.org/?page_id=3519)  
+São Paulo (Brazil), 11-14 September 2013
+
+[Workshop on Geometric Correspondences of Gauge Theories](http://cdsagenda5.ictp.trieste.it/full_display.php?smr=0&ida=a12205)  
+Trieste (Italy), 9-13 September 2013
+
+[Workshop on Noncommutative Field Theory and Gravity](http://www.physics.ntua.gr/corfu2013/nc.html)  
+Corfu (Greece), 8-15 September 2013
+
+[Helmholtz International School on Cosmology, strings, and new physics](http://theor.jinr.ru/~diastp/summer13/)  
+Dubna (Russia), 2-14 September 2013
+
+[Foundations and New Methods in Theoretical Physics (Saalburg Summer School for Graduate Students)](http://www.itp.uni-hannover.de/saalburg/)  
+Wolfersdorf (Germany), 2-13 September 2013
+
+[ICTP-SAIFR School on Approaches to Quantum Gravity](http://www.ictp-saifr.org/qgschool)  
+Sao Paulo (Brazil), 2-9 September 2013
+
+[The String Theory Universe](http://www.strings13.unibe.ch/)  
+Bern (Switzerland), 2-6 September 2013
+
+[IX<sup>th</sup> Modave Summer School in Mathematical Physics](http://www.ulb.ac.be/sciences/ptm/pmif/Rencontres/ModaveIX/index.html)  
+Modave (Belgium), 1-7 September 2013
+
+[Summer School and Workshop on the Standard Model and Beyond](http://www.physics.ntua.gr/corfu2013/sm.html)  
+Corfu (Greece), 31 August - 11 September 2013
+
+[SUSY 2013](http://susy2013.ictp.it/)  
+Trieste (Italy), 26-31 August 2013
+
+[School on Supersymmetry and Unification of Fundamental Interactions (Pre-SUSY 2013)](http://presusy2013.ictp.it/)  
+Trieste (Italy), 20-23 August 2013
+
+[Integrability in Gauge and String Theory 2013](http://web.science.uu.nl/IGST13/)  
+Utrecht (Netherlands), 19-23 August 2013
+
+[Current Themes in High Energy Physics and Cosmology](https://indico.nbi.ku.dk/conferenceDisplay.py?confId=536)  
+Copenhagen (Denmark), 12-16 August 2013
+
+[Summer School on Moduli Spaces in Algebraic Geometry and Physics](http://grk1670.math.uni-hamburg.de/moduli2013/)  
+Hamburg (Germany), 12-16 August 2013
+
+[ASC School on Gauge-gravity duality and condensed matter physics](http://www.physik.lmu.de/adscmt)  
+Munich (Germany), 5-9 August 2013
+
+[Gauge/Gravity Duality 2013](http://ggd2013.mpp.mpg.de/)  
+Munich (Germany), 29 July -2 August 2013 
+
+[Karl Schwarzschild Meeting 2013](https://fias.uni-frankfurt.de/ksm2013/)  
+Frankfurt am Main (Germany), 22-26 July 2013 
+
+[Europhysics Conference on High Energy Physics](http://eps-hep2013.eu/)  
+Stockholm (Sweden), 18-24 July 2013
+
+[StringPheno 2013](http://stringpheno2013.desy.de)  
+Hamburg (Germany), 15-19 July 2013
+
+[Kerr Conference](http://kerr-conference.org/)  
+Potsdam (Germany), 4-5 July 2013
+
+[String Theory, Black Holes and Holography](http://www2.yukawa.kyoto-u.ac.jp/~string13/index.htm)  
+Kyoto (Japan) 1-5 July 2013
+
+[Frontiers of String Theory](http://ipht.cea.fr/Meetings/Itzykson2013/index.php)  
+Saclay (France), 1-3 July 2013
+
+[Benasque Workshop on String Theory](http://benasque.org/2013strings/)  
+Benasque (Spain), 30 June - 12 July 2013
+
+[Physics and Mathematics of Link Homology](http://www.crm.umontreal.ca/sms/2013/index_e.php) (Summer School)  
+Montreal (Canada), 24 June - 5 July 2013
+
+[9th Patras Workshop on Axions, WIMPs and WISPs](http://axion-wimp.desy.de/)  
+Mainz (Germany), 24-28 June 2013
+
+[XXI International Workshop on High Energy Physics and Quantum Field Theory (QFTHEP 2013)](http://qfthep.sinp.msu.ru)  
+Repino (Russia), 23-30 June 2013
+
+[Strings 2013](http://strings2013.sogang.ac.kr/)  
+Seoul (Korea), 23-29 June 2013
+
+[Lie theory and its applications in physics](http://theo.inrne.bas.bg/~dobrev/LT-10.htm)  
+Varna (Bulgaria), 17-23 June 2013
+
+[String-Math 2013](http://scgp.stonybrook.edu/events/event-pages/string-math-2013)   
+Stonybrook (USA), 17-21 June 2013
+
+[Holography 2013: Gauge/gravity duality and strongly correlated systems](https://www.apctp.org/plan.php/holography2013)  
+Pohang (Korea), 13-22 June 2013
+
+[Integrable systems and quantum symmetries](http://km.fjfi.cvut.cz/intsystems/)  
+Prague (Czech Republic), 12-16 June 2013
+
+[Thermalization: From Glasses to Black Holes](http://www.icts.res.in/program/ASIT2013)  
+Bangalore (India), 10-21 June 2013
+
+[Moduli Spaces and their Invariants in Mathematical Physics](http://www.crm.umontreal.ca/Geometry2012/index.php/espaces12_e.php)  
+Montreal (Canada), 3-14 June 2013
+
+[Non-perturbative QCD](http://www.ictp-saifr.org/?page_id=3423)  
+Sao Paulo (Brazil), 27 May - 7 June 2013
+
+[Eötvös Spring School on Recent Advances in AdS/CFT](http://www.rmki.kfki.hu/~bajnok/AdSCFT/AdSchool.html)  
+Budapest (Hungary), 27-31 May 2013
+
+[Summer School on Toric Geometry, Dimers and String Theory](http://www2.iag.uni-hannover.de/~camere/school/index.php)  
+Hannover (Germany), 21-24 May 2013
+
+[Planck 2013](https://indico.desy.de/internalPage.py?pageId=0&confId=7161)  
+Bonn (Germany), 20-24 May 2013
+
+[Workshop on String Theory, Gravity and Fields: Phenomenology beyond standard model in the LHC era](http://ngrandi.wix.com/workshop3)  
+Buenos Aires (Argentina), 13-14 May 2013
+
+[String-Maths UK 2013](http://personal.maths.surrey.ac.uk/st/M.Wolf/conferences/smuk2013/index.html)  
+Surrey (UK), 10-11 May 2013
+
+[Irish Quantum Foundations](http://www.thphys.nuim.ie/conferences/iqf2013/IQFTv1.html)  
+Celbridge (Ireland), 3-4 May 2013
+
+[BrunoFest 2013 Celebrating Bruno Zumino's 90th Birthday](http://ctp.berkeley.edu/brunofest/bruno.html)  
+Berkeley (USA), 2-4 May 2013
+
+[Amplitudes 2013](http://wwwth.mpp.mpg.de/members/strings/amplitudes2013/amplitudes.html)  
+Munich (Germany), 28 April - 3 May 2013
+
+[17th Annual UK Meeting on Integrable Models, Conformal Field Theory and Related Topics](http://www.extragalactic.info/~cyoung/icft/)  
+Hatfield (UK), 12-13 April 2013
+
+[Non-perturbative Quantum Field Theory](http://hep.physics.uoc.gr/Erasmus-IP-2013/)  
+Heraklion (Crete/Greece), 1-28 April 2013
+
+[Higher Spins, Strings and Duality](http://www.ggi.fi.infn.it/index.php?p=events.inc&id=103)  
+Florence (Italy), 18 March - 10 May 2013
+
+[Spring School on Superstring Theory and Related Topics](http://cdsagenda5.ictp.it/full_display.php?email=0&ida=a12169)  
+Trieste (Italy), 18-26 March 2013
+
+[XXV Workshop Beyond the Standard Model](https://indico.desy.de//event/BadHonnef2013)  
+Bad Honnef (Germany), 18-21 March 2013
+
+[Mathematica Summer School on Theoretical Physics: Advanced Topics in Conformal Field Theory](http://agenda.ictp.it/smr.php?2441)  
+Trieste (Italy), 11-16 March 2013
+
+[GATIS Kickoff Workshop](http://gatis-kickoff.desy.eu/)  
+Hamburg (Germany), 25-28 February 2013
+
+[Workshop on Field Theories with Defects](http://www.math.uni-hamburg.de/home/runkel/conf/def2013/)  
+Hamburg (Germany), 13-15 February 2013
+
+[49-th Winter School of Theoretical Physics: Cosmology and non-equilibrium statistical mechanics](http://www.ift.uni.wroc.pl/~karp49/)  
+Ladek Zdroj (Poland), 10-16 February 2013
+
+[Holography and Applied String Theory](http://www.birs.ca/events/2013/5-day-workshops/13w5054)  
+Banff (Canada), 10-15 February 2013
+
+[Nordic String Meeting](https://indico.desy.de/conferenceDisplay.py?confId=7092)  
+Hamburg (Germany), 6-7 February 2013
+
+[2nd Solvay Workshop on "Higher Spin Gauge Theories"](http://www.solvayinstitutes.be/events/HigherSpin2013/HigherSpin2013.html)  
+Brussels (Belgium), 5-8 February 2013
+
+[CERN Winter School on Supergravity, Strings and Gauge Theory](https://indico.cern.ch/conferenceDisplay.py?ovw=True&confId=183290)  
+CERN (Switzerland), 4-8 February 2013
+
+[Symmetry and Geometry of Branes in String/M Theory](http://www.maths.dur.ac.uk/events/Meetings/SGB_2013/home.html)  
+Durham (UK), 28 January - 1 February 2013
+
+[Bangkok Workshop on Gravity, Gauge Theory, Matrices and Strings](http://tena4.vub.ac.be/~eoe/BKK2013.html)  
+Chulalongkorn University (Thailand), 28 January - 1 February 2013
+
+[Iberian Strings 2013](http://ibstrings.math.ist.utl.pt/)  
+Lisbon (Portugal), 22-25 January 2013
+
+[From Classical to Quantum GR: Applications to Black Holes](https://indico.cern.ch/conferenceDisplay.py?confId=209759)  
+Brighton (UK), 16-18 January 2013
+
+[Quantum Aspects of Black Holes](http://cquest.sogang.ac.kr/workshop/IWBP2013/)  
+Seoul (South-Korea), 7-12 January 2013 
+
+[The Search for Fundamental Physics: Higgs Bosons and Supersymmetry](http://scipp.ucsc.edu/fundamental_physics/)  
+Santa Cruz (USA), 4-6 January 2013
+
+## 2012
+
+
+[VIII Brunel-Bielefeld Workshop on Random Matrix Theory](http://www.brunel.ac.uk/siscm/mathematical-sciences/seminars-and-events/ranwshop12)  
+Uxbridge (UK), 14-15 December 2012
+
+[LACES 2012 Lezioni Avanzate di Campi E Stringhe](http://laces.web.cern.ch/Laces/LACES12/index12.html)  
+Galileo Galilei Institute for Theoretical Physics, Arcetri, Florence (Italy), 3-21 December 2012
+
+[Amplitudes and Periods](http://www.ihes.fr/~vanhove/QFT2012/index.html)  
+Bures-sur-Yvette, 3-7 December 2012
+
+[Geometry and Physics](http://homepages.physik.uni-muenchen.de/~Michael.Haack//Workshop__Geometry_and_Physics/Home.html)  
+Munich (Germany), 19-23 November 2012
+
+[Algebra, Geometry and Physics of BPS States](http://www.him.uni-bonn.de/programs/current-trimester-program/mathematical-physics/workshop-algebra-geometry-and-physics-of-bps-states/)  
+Bonn (Germany) 12-14 November 2012
+
+[Symbolic Computation in Theoretical Physics: Integrability and super-Yang-Mills](http://www.ictp-saifr.org/symbolic)  
+São Paulo (Brazil), 5-16 November 2012
+
+[Strings, Cosmology and Gravity Student Conference (SCGSC) 2012](https://sites.google.com/site/scgcs2012/)  
+Paris (France), 29-31 October 2012
+
+[String Field Theory and Related Aspects V, SFT 2012](http://www.as.huji.ac.il/isf/sft)  
+Jerusalem (Israel), 28 October - 1 November 2012
+
+[Entanglement in Discrete and Continuous Quantum Systems](http://www.pctp.princeton.edu/pcts/Entanglement2012/Entanglement2012.html)  
+Princeton (USA), 25-26 October 2012
+
+[Barcelona Postgrad Encounters on Fundamental Physics](http://ffn.ub.edu/bcn-encounters/)  
+Barcelona (Spain), 17-19 October 2012
+
+[Workshop on String Theory, Gravity, and Fields](http://users.df.uba.ar/gaston/Workshop2012.pdf)  
+Buenos Aires (Argentina), 16-17 October 2012
+
+[Advanced String School](http://www.iopb.res.in/~string/2012/)  
+Puri (India), 12-18 October 2012
+
+[4th Bethe Center Workshop on Unification and String Theory](https://indico.desy.de/conferenceDisplay.py?confId=5694)  
+Bad Honnef (Germany), 1-5 October 2012
+
+[New Challenges for String Phenomenology](http://www.ift.uam.es/iftworkshops/index.php?id=25)  
+Madrid (Spain), 26-28 September 2012
+
+[DESY Theory Workshop: Lessons from the first phase of the LHC](http://th-workshop2012.desy.de/)  
+Hamburg (Germany), 25-28 September 2012
+
+[Mathematics and Physics of Moduli Spaces](http://www.match.uni-heidelberg.de/MPMS/index.php)  
+Heidelberg (Germany), 24-28 September 2012
+
+[XVIII European Workshop on String Theory](http://www.physics.ntua.gr/~konstant/corfu2012-tmp/st.html)  
+Corfu (Greece), 19-26 September 2012
+
+[MCTP Workshop on RG Flows, Holography, and Entanglement Entropy](http://www.umich.edu/~mctp/SciPrgPgs/events/2012/rgflows/)  
+Ann Arbor (Michigan/USA), 17-21 September 2012
+
+[Autumn Symposium on String/M Theory](http://workshop.kias.re.kr/FWST2012/)  
+Seoul (Korea), 17-21 September 2012
+
+[Workshop on geometric correspondences of gauge theories](http://people.sissa.it/~bonelli/workshops/ws12/index.html)  
+Trieste (Italy), 17-21 September 2012
+
+AdS/CFT, Integrability, and Supersymmetry  
+Lyon (France), 12-14 September 2012
+
+[Young Researchers Workshop on the Physics of de Sitter Spacetime](http://hep.physics.uoc.gr/deSitter)  
+Hannover (Germany), 11-14 September 2012
+
+[2012 Arnold Sommerfeld School - New Methods for Field Theory Amplitudes](http://www.physik.lmu.de/amplitudes)  
+Munich (Germany), 10-14 September 2012
+
+[Summer school on Differential Geometry and Supersymmetry](http://www.math.uni-hamburg.de/dgsusy/)  
+Hamburg (Germany), 10-14 September 2012
+
+[Black Holes in Supergravity and M/Superstring Theory](http://bhsugra2012.aei.mpg.de/)  
+Potsdam (Germany), 10-12 September 2012
+
+[7th Mathematical Physics Meeting: Summer School and Conference on Modern Mathematical Physics](http://www.mphys7.ipb.ac.rs)  
+Belgrade (Serbia), 9-19 September 2012
+
+[Summer School and Workshop on the Standard Model and Beyond](http://www.physics.ntua.gr/~konstant/corfu2012-tmp/sm.html)  
+Corfu (Greeece), 8-17 September 2012
+
+[Saalburg Summer School for Graduate Students - Foundations and New Methods in Theoretical Physics](http://www.itp.uni-hannover.de/saalburg/)  
+Wolfersdorf (Germany), 3-14 September 2012
+
+[Spanish Relativity Meeting in Portugal ERE2012](http://www.segre.es/en/congresos.shtml)  
+Guimarães (Portugal), 3-7 September 2012
+
+[String Theory and Arithmetic Geometry](http://www.maths.bris.ac.uk/~maowg/heilbronn-2012/heilbronn-2012.html)  
+Bristol (UK), 3-7 September 2012
+
+[Recent Developments in String and Field Theory](http://people.physik.hu-berlin.de/~ahoop/)  
+Berlin-Schmöckwitz (Germany), 27-31 August 2012
+
+[New Perspectives in Topological Field Theories](http://www.math.uni-hamburg.de/tft2012/)  
+Hamburg (Germany), 27-31 August 2012
+
+[Modave Summer School in Mathematical Physics](http://www.ulb.ac.be/sciences/ptm/pmif/Rencontres/ModaveVIII/index.html)  
+Modave (Belgium), 26 August - 1 September 2012
+
+[Integrability in Gauge and String Theory 2012](http://int12.itp.phys.ethz.ch)  
+Zurich (Switzerland), 20-24 August 2012
+
+[2012 Summer Simons Workshop in Mathematics and Physics](http://scgp.stonybrook.edu/archives/3124)  
+Stony Brook (USA), 30 July - 17 August 2012
+
+[Strings 2012](http://wwwth.mpp.mpg.de/members/strings/strings2012/strings.html)  
+Munich (Germany), 23-28 July 2012
+
+[String-Math 2012](http://www.hcm.uni-bonn.de/events/eventpages/2012/string-math-2012/)  
+Bonn (Germany), 16-20 July  2012
+
+[LatinoAmerican Workshop on High Energy Physics: Particles and Strings](http://dftuz.unizar.es/whepcuba2012/)  
+Havana (Cuba), 15-21 July 2012
+
+[36th International Conference on High Energy Physics](http://www.ichep2012.com.au/Home.aspx)  
+Melbourne (Australia), 4-11 July 2012
+
+[String Phenomenology - CERN Theory Institute](https://indico.cern.ch/conferenceDisplay.py?confId=169551)  
+Geneva (Switzerland), 2-20 July 2012
+
+[Graduate Summer School on String Phenomenology](http://scgp.stonybrook.edu/archives/2779)  
+Stony Brook (USA), 2-14 July 2012
+
+[Bethe Forum: Lecture Series on Mathematical String Theory](http://www.bctp.uni-bonn.de/bethe-forum/2012/stringmathschool/)  
+Bonn (Germany), 2-13 July, 2012
+
+[Branes, Supergravity and M-Theory: A conference to celebrate the 60th birthday of Paul K Townsend](http://www.damtp.cam.ac.uk/research/hep/conferences/branes/)  
+DAMTP (Cambridge), 2-3 July 2012
+
+[International School on Strings and Fundamental Physics - SFP12](http://sfp.desy.de)  
+Hamburg (Germany), 01-13 July  2012
+
+[String Phenomenology 2012](http://www.newton.ac.uk/programmes/BSM/bsmw05.html)  
+Cambridge (UK), 25-29 June 2012
+
+[Integrable Systems and Quantum Symmetries](http://www.km.fjfi.cvut.cz/intsystems)  
+Prague (Czech Republic), 17-23 June 2012
+
+[Cargèse School "Gauge Theory and String Theory"](http://www.lpthe.jussieu.fr/cargese/)  
+Cargèse (France),  4 - 16 June 2012
+
+[Branes and Black Holes](http://www.newton.ac.uk/programmes/BSM/bsmw04.html)  
+London (UK), 28 May - 1 June 2012
+
+[Planck 2012](http://planck12.fuw.edu.pl/)  
+Warsaw (Poland), 28 May - 1 June 2012
+
+[Particle Physics and Cosmology](http://confs.obspm.fr/Blois2012/index.htm)  
+Blois (France), 27 May - 12 June 2012
+
+[ESI Program on K-Theory and Quantum Fields](http://maths-old.anu.edu.au/esi/2012/)  
+Vienna (Austria), 21 May - 27 July 2012
+
+[Algebraic Topology, Field Theory and Strings](http://scgp.stonybrook.edu/archives/1486)  
+Stony Brook (USA), 21-25 May 2012
+
+[String Theory for Mathematicians](http://scgp.stonybrook.edu/archives/1489)  
+Stony Brook (USA), 14-18 May 2012
+
+[Natal School on Gravity and String Theory](http://www.fma.if.usp.br/~strcosmo/)  
+Natal (Brazil), 10-24 May 2012
+
+[Maths of String and Gauge Theory](http://kings-city.wikidot.com/)  
+London (UK), 3-5 May 2012
+
+[The fifth Petrov International Symposium on High Energy Physics, Cosmology and Gravity](http://quark.itp.tuwien.ac.at/~diefaust/Symposium/2012/)  
+Kyiv (Ukraine), 29 April - 15 June 2012
+
+[Workshop on String Phenomenology](http://scgp.stonybrook.edu/archives/1491)  
+Stony Brook (USA), 23-27 April 2012
+
+[Condensed Matter, Black Holes and Holography](http://www.newton.ac.uk/programmes/BSM/bsmw03.html)  
+Cambridge (UK), 16-20 April 2012
+
+[Integrability in topological field theory](http://www.him.uni-bonn.de/programs/future-programs/future-trimester-programs/integrability-in-geometry-and-mathematical-physics/workshop-integrability-in-topological-field-theory/)  
+Bonn (Germany), 16-20 April 2012
+
+[School stringtheory.pl/2012](http://stringtheory.pl/2012/)  
+Wroclaw (Poland), 13-15 April  2012
+
+[ICFT 2012](http://www-users.york.ac.uk/~vr509/)  
+York (UK), 13-14 April 2012
+
+[Aspects of conformal and superconformal field theories](http://personal.maths.surrey.ac.uk/st/M.Wolf/conferences/dolan/index.html)  
+Cambridge (UK), 13 April 2012
+
+[Workshop on Higher Spin Gravity](http://quark.itp.tuwien.ac.at/~grumil/ESI2012/)  
+Vienna (Austria), 10-20 April 2012
+
+[Second Quantum Universe Symposium](http://thep.housing.rug.nl/qu2)  
+Groningen (The Netherlands), 4-5 April 2012
+
+[Progress in Quantum Field Theory and String Theory](http://jpp1.jp/qftstr12/)  
+Osaka City University (Japan), 3-7 April  2012
+
+[Recent Advances in Scattering Amplitudes](http://www.newton.ac.uk/programmes/BSM/bsmw02.html)  
+Cambridge (UK), 2-4 April 2012
+
+[N=4 Super Yang-Mills Theory, 35 Years After](http://www.hep.caltech.edu/ym35/)  
+Pasadena (California/USA), 29 -31 March 2012
+
+[CQUeST Spring Workshop on Higher Spins and String Geometry](http://cquest.sogang.ac.kr/main/?skin=spring2012.htm)  
+Seoul (South Korea), 28-31 March 2012
+
+[Spring School on Superstring Theory and Related Topics](http://cdsagenda5.ictp.trieste.it/full_display.php?ida=a11155)  
+Trieste (Italy), 19-27 March 2012
+
+[Bits, Branes, Black Holes](http://www.kitp.ucsb.edu/activities/dbdetails?acro=bitbranes12)  
+Santa Barbara (USA), 19 March - 25 May 2012
+
+[F-Theory Workshop](http://scgp.stonybrook.edu/archives/1493)  
+Stony Brook (USA), 19-23 March 2012
+
+[Beyond the standard model](http://www.desy.de/uni-th/stringth/bad-honnef/index.html)  
+Bad Honnef (Germany), 12-15 March 2012
+
+[Amplitudes 2012](http://amplitudes-2012.desy.de/)  
+Hamburg (Germany), 5-9 March 2012
+
+[New perspectives on supersymmetric gauge theories](http://www.universe-Cluster.de/newgauge)  
+Munich (Germany), 27 February - 2 March  2012
+
+[Nordic String Theory Meeting 2012](https://indico.nbi.ku.dk/conferenceDisplay.py?confId=397)  
+Copenhagen (Danmark), 20-21 February 2012
+
+[Bangkok mini-workshop on String Cosmology](http://tena4.vub.ac.be/~eoe/BKKmini.html)  
+Chulalongkorn University (Thailand), 6-10 February  2012
+
+[CERN Winter School on Supergravity, Strings, and Gauge Theory 2012](https://indico.cern.ch/conferenceDisplay.py?confId=136806)  
+CERN (Switzerland), 6-10 February  2012
+
+[Common trends in gauge fields, strings and integrable systems](http://agenda.albanova.se/conferenceDisplay.py?confId=3085)  
+Stockholm (Sweden), 6-10 February  2012
+
+[Mathematical Aspects of String and M-theory, miniconference](http://www.newton.ac.uk/programmes/BSM/bsmw01.html)   
+Isaac Newton Institute (Cambridge), 11-13 January 2012
+
+[Mathematics and Applications of Branes in String and M-theory](http://www.newton.ac.uk/programmes/BSM/index.html)  
+Cambridge (UK), 3 January - 29 June 2012
+
+## 2011
+
+
+[Young Theorists' Forum 2011](http://www.ippp.dur.ac.uk/Workshops/11/ytf11)  
+Durham (UK), 14-15 December 2011
+
+[Noncommutative Algebraic Geometry and D-branes](http://scgp.stonybrook.edu/archives/977)  
+Stony Brook (USA), 12-16 December 2011
+
+[LACES 2011, Lezioni Avanzate di Campi E Stringhe](http://www.ggi.fi.infn.it/index.php?p=events.inc&id=88,)  
+Galileo Galilei Institute for Theoretical Physics, Arcetri, Florence (Italy), 28 November - 16 December 2011
+
+[Exact Methods in Gauge/String Theories](http://www.princeton.edu/~masahito/confs/2011/PCTS2011.shtml)  
+Princeton (USA), 11-12 November 2011
+
+[Strings, Cosmology and Gravity Student Conference 2011](http://plato.tp.ph.ic.ac.uk/~bc909/SCGSC_2011)  
+London (UK), 2-4 November 2011
+
+[Workshop on Representation Theoretical and Categorical Structures in Quantum Geometry and Conformal Field Theory](http://www.algeo.math.uni-erlangen.de/workshop-fall2011)  
+Erlangen (Germany), 31 October - 2 November 2011
+
+[Algebraic Geometry for String Theorists](http://www.theorie.physik.uni-muenchen.de/activities/schools/2011_asc_school/index.html)  
+Munich (Germany), 10-14 October 2011
+
+[School of Analytic Computing in Theoretical High-Energy Physics](http://www.lhcphenonet.eu/atrani2011/)  
+Atrani (Italy), 7-11 October 2011
+
+[High Energy Physics and Quantum Field Theory](http://qfthep.sinp.msu.ru/)  
+Sochi (Russia), 24 September - 1 October 2011
+
+[String Field Theory 2011](http://sft11.fzu.cz/)  
+Prague (Czech Republic), 20-24 September 2011
+
+[Workshop on Fields and Strings: Theory - Cosmology - Phenomenology](http://www.physics.ntua.gr/corfu2011/st.html)  
+Corfu (Greece), 14-18 September 2011
+
+[6th Aegean Summer School on Quantum Gravity and Quantum Cosmology](http://www.physics.ntua.gr/cosmo11/)  
+Chora (Naxos Island/Greece), 12-17 September 2011
+
+[Workshop on Noncommutative Field Theory and Gravity](http://www.physics.ntua.gr/corfu2011/nc.html)  
+Corfu (Greece), 7-11 September 2011
+
+[String Phenomenology and Cosmology](http://kitpc.itp.ac.cn/program.jsp?id=PS20110906)  
+Beijing (China), 6 September - 11 November 2011
+
+[Lattice QCD, Hadron Structure and Hadronic Matter](http://theor.jinr.ru/~diastp/summer11/index.html)  
+Dubna (Russia), 5-17 September 2011
+
+[XVIIth European Workshop on String Theory 2011](http://www.pd.infn.it/pd-strings/)  
+Padua (Italy), 5-9 September 2011
+
+[1st Summer School of ITN: Unification in the LHC Era](http://www.physics.ntua.gr/corfu2011/itn.html)  
+Corfu (Greece), 4-15 September 2011
+
+[Saalburg Summer School: Foundations and New Methods in Theoretical Physics](http://www.itp.uni-hannover.de/saalburg/)  
+Wolfersdorf (Germany), 29 August - 9 September 2011
+
+[Modave Summer School in Mathematical Physics](http://www.ulb.ac.be/sciences/ptm/pmif/Rencontres/ModaveVII/home.html)  
+Modave (Belgium), 28 August - 3 September 2011
+
+[Saalburg Summer School: Foundations and New Methods in Theoretical Physics](http://www.itp.uni-hannover.de/saalburg/)  
+Wolfersdorf (Germany), 29 August - 9 September 2011
+
+[SUSY 11](https://indico.fnal.gov/conferenceDisplay.py?confId=3563)  
+Batavia (USA), 28 August - 2 September 2011
+
+[Workshop on String Theory, Gravity, and Fields](http://www.wix.com/ngrandi/workshop)  
+Buenos Aires (Argentina), 24-25 August 2011
+
+[String Phenomenology 2011](http://conferencing.uwex.edu/conferences/stringpheno2011/index.cfm)  
+Madison (USA), 22-26 August 2011
+
+[Integrability in Gauge/String Theories](http://www.perimeterinstitute.ca/Events/IGST_2011/IGST_2011/)  
+Waterloo (Canada),15-19 August 2011
+
+[Quantum Theory and Symmetries](http://www.km.fjfi.cvut.cz/qts7/)  
+Prague (Czech Republic), 7-13 August 2011
+
+[Les Houches Summer School: Theoretical physics to face the challenge of LHC](http://www.lpthe.jussieu.fr/houches11/)  
+Les Houches (France), 1-26 August 2011
+
+[Strings, Branes and Supergravity](http://home.ku.edu.tr/~sbsg/index.html)  
+Istanbul (Turkey), 1-5 August 2011
+
+[Exact Results in Gauge/Gravity Dualities](http://www.perimeterinstitute.ca/Events/Integrability_in_Gauge%10String_Theories/Exact_Results_in_Gauge%10Gravity_Dualities/)  
+Waterloo (Canada), 31 July - 19 August 2011
+
+[Mathematica Summer School: Scattering Amplitudes and AdS/CFT](http://www.fc.up.pt/mathschool/)  
+Waterloo (Canada), 31 July - 6 August 2011
+
+[Europhysics Conference on High-Energy Physics](http://eps-hep2011.eu/)  
+Grenoble (France), 21-27 July 2011
+
+[Gravity - New perspectives from strings and higher dimensions](http://benasque.org/2011gravity/)  
+Benasque (Spain), 17-29 July 2011
+
+[3rd Joburg Workshop on String Theory: String Theory and Higher Spins](http://neo.phys.wits.ac.za/workshop_3/)  
+Acornhoek (Sotuh Africa), 7-11 July 2011
+
+[String Theory Workshop](http://benasque.org/2011strings/)  
+Benasque (Spain), 3-15 July 2011
+
+[Mirror Symmetry and Tropical Geometry](http://www.math.ksu.edu/~rcastano/cetraro/index.html#)  
+Cetraro (Italy), 2-8 July 2011
+
+[Strings 2011](http://www-conference.slu.se/strings2011/)  
+Uppsala (Sweden), 27 June - 2 July 2011
+
+[AdS/CFT and its Applications](http://bajnok.web.elte.hu/JHW/)  
+Budapest (Hungary), 22-24 June 2011
+
+[UNIFY Workshop on Frontiers in Theoretical Physics](http://www.fc.up.pt/cfp/UNIFYworkshop/)  
+Porto (Portugal), 21-23 June 2011
+
+[Lie Theory and Its Applications in Physics](http://theo.inrne.bas.bg/~dobrev/LT-9.htm)  
+Varna (Bulgaria), 20-26 June 2011
+
+[Quantum Theory and Gravitation](http://www.quantum-gravity2011.ethz.ch/)  
+Zurich (Switzerland), 14-24 June 2011
+
+[String-Math 2011](http://www.math.upenn.edu/StringMath2011)  
+Philadelphia (USA), 5-11 June 2011
+
+[String Phenomenology](http://agenda.albanova.se/conferenceDisplay.py?confId=1124)  
+Stockholm (Sweden), 30 May - 25 June 2011
+
+[PLANCK 2011 - From the Planck Scale to the ElectroWeak Scale](http://indico.cern.ch/conferenceDisplay.py?confId=112851)  
+Lisbon (Portugal), 30 May - 3 June 2011
+
+[String Vacuum Project Spring 2011 Meeting](http://www.physics.upenn.edu/svp2011/index.html)  
+Philadelphia (USA), 23-25 May 2011
+
+[Quantum Information in Quantum Gravity and Condensed-Matter Physics](http://www.aspenphys.org/documents/program/summer2011.html)  
+Aspen (USA), 22 May - 5 June 2011
+
+[Solvay workshop: Gauge Theories, Strings and Geometry](http://www.solvayinstitutes.be/Activities/Gauge2011/Strings_Geometry.html)  
+Brussels (Belgium), 18-20 May 2011
+
+[Three String Generations at IHES](http://www.ihes.fr/jsp/site/Portal.jsp?page_id=62)  
+Bures-sur-Yvette (France), 16-20 May 2011
+
+[Black Objects in Supergravity School](http://www.lnf.infn.it/conference/boss2011/)  
+Frascati (Italy), 9-13 May 2011
+
+[Workshop on Matrix Factorizations](http://www.math.uni-bielefeld.de/birep/meetings/wmf2011/index.php)  
+Bielefeld (Germany), 6-8 May 2011
+
+[Quantum Universe (QU1) Meeting](http://thep.housing.rug.nl/qu1)  
+Groningen (Netherlands), 20-21 April 2011
+
+[15th Annual UK Meeting on Integrable Models, Conformal Field Theory and Related Topics](http://www.city.ac.uk/sems/mathematics/Events/ICFT15/ICFT15.html)  
+London (United Kingdom), 15-16 April 2011
+
+[Spring School on Superstring Theory and Related Topics](http://cdsagenda5.ictp.it/full_display.php?email=0&ida=a10133)  
+Trieste (Italy), 28 March - 5 April 2011
+
+[Quantum Integrability and Gauge Theories](http://hamilton.tcd.ie/index.php?subsite=main§ion=events&subsection=qigt)  
+Dublin (Ireland), 28 March - 2 April 2011
+
+[Nagoya University GCOE Spring School 2011: Gauge Theory, Gravity, and String Theory Beyond the Standard Model](http://www.gcoe.phys.nagoya-u.ac.jp/ggs2011)  
+Nagoya (Japan), 21-24 March 2011
+
+[Beyond the Standard Model](http://www.desy.de/uni-th/stringth/bad-honnef/index.html)  
+Bad Honnef (Germany), 13-17 March 2011
+
+[QFT 2011](http://www.iiserpune.ac.in/qft/)  
+Pune (India), 23-27 February 2011
+
+[Workshop and School on Higher Gauge Theory, TQFT and Quantum Gravity](https://sites.google.com/site/hgtqgr)  
+Lisbon (Portugal), 10-13 February 2011
+
+[School on Higher Gauge Theory, TQFT and Quantum Gravity](https://sites.google.com/site/hgtqgr)  
+Lisbon (Portugal), 7-13 February 2011
+
+[The DRSTP Postgraduate AIO/OIO School](http://www1.phys.uu.nl/drstp/postgr.courses/THEP/2011Brazil/homeTHEPBrazil.html)  
+Sao Paulo (Brazil), 6-18 February 2011
+
+[CERN Winter School on Supergravity, Strings, and Gauge Theory](http://indico.cern.ch/conferenceDisplay.py?confId=95716)  
+Geneva (Switzerland), 24-28 January 2011
+
+[5th Asian Winter School on Strings, Particles and Cosmology](http://apctp.org/conferences/2010/awspc5/index.php)  
+Jeju (Korea), 10-17 January 2011
+
+## 2010
+
+
+[5th ICTP-CAPES Latin-American String School](http://www.ift.unesp.br/LASS2010)  
+Sao Paulo (Brasil), 3-20 December 2010
+
+[From Sigma Models to Four-dimensional QFT](http://qft2010.desy.de/)  
+Hamburg (Germany), 29 November - 3 December 2010
+
+[String Vacuum Project 2010 Meeting](http://www.physics.ohio-state.edu/~raby/Ohio.SVP.html)  
+Columbus (Ohio/USA), 5-8 November 2010
+
+[Strings, Cosmology and Gravity Student Conference 2010](http://sites.google.com/site/scgsc10paris/home)  
+Paris (France), 3-5 November 2010
+
+[Petrov 2010 Anniversary Symposium on General Relativity and Gravitation](http://petrov2010.ksu.ru/index.php)  
+Kazan (Russia), 1-6 November 2010
+
+[Workshop on Algebra, Geometry, Mathematical Physics](http://www.agmf.ee/gb10/general.php)  
+Tjärnö (Sweden), 25-31 October 2010
+
+[Master Class on Categorification](http://www.qgm.au.dk/events/categorification/)  
+Aarhus (Denmark), 21-27 October 2010
+
+[High Energy Physics, Cosmology and Gravity](http://quark.itp.tuwien.ac.at/~diefaust/Conference/index.html)  
+Kyiv (Ukraine), 18-23 October 2010
+
+[AdS/CFT and Novel Approaches to Hadron and Heavy Ion Physics](http://www.kitpc.ac.cn/program.jsp?id=PR20101011)  
+Beijing (China), 11 October - 3 December 2010
+
+[Advanced String School](http://www.iopb.res.in/~string/2010/index.html)  
+Puri (India), 4-10 October 2010
+
+[PHD School: From Particles to Strings and Vice Versa](https://indico.nbi.ku.dk/conferenceDisplay.py?confId=188)  
+Copenhagen (Denmark), 27 September - 1 October 2010
+
+[Quantum Field Theory: Developments and Perspectives](http://th-workshop2010.desy.de/)  
+Hamburg (Germany), 21-24 September 2010
+
+[Algebra, Geometry, and Mathematical Physics](http://www.agmf.ee/agmp10/)  
+Chania (Crete/Greece), 15-18 September 2010
+
+[Summer School and Conference on Modern Mathematical Physics](http://www.phy.bg.ac.rs/~mphys6/)  
+Belgrade (Serbia), 14-23 September 2010
+
+[Crete Conference on gauge theories and the structure of spacetime](http://hep.physics.uoc.gr/conf09/)  
+Kolymbari (Crete/Greece), 11-18 September 2010
+
+[Inaugural Workshop on Black Holes in Supergravity and M/Superstring Theory](http://www.gravity.psu.edu/events/blackholes_supergravity/index.shtml)  
+Penn State (USA), 9-11 September 2010
+
+[High Energy Physics and Quantum Field Theory](http://qfthep.sinp.msu.ru/)  
+Golitsyno/Moscow (Russia), 8-15 September 2010
+
+[Fall Workshop on Geometry and Physics](http://cmup.fc.up.pt/cmup/fallworkshop/index.html)  
+Porto (Portugal), 6-9 September 2010
+
+[AdS4/CFT3 and the Holographic States of Matter](http://ggi-www.fi.infn.it/index.php?p=events.inc&id=55)  
+Florence (Italy), 30 August - 5 November 2010
+
+[Saalburg School on Foundations and New Methods in Theoretical Physics](http://www.itp.uni-hannover.de/saalburg/)   
+Wolfersdorf (Thüringen/Germany), 30 August - 10 September 2010
+
+[Parma School on Gauge/Gravity duality, Dark matter and Cosmology](http://www.pr.infn.it/snft/2010/)  
+Parma (Italy), 30 August - 4 September 2010
+
+[10th Hellenic School and Workshops on Elementary Particle Physics and Gravity](http://www.physics.ntua.gr/corfu2010/)  
+Corfu (Greece), 29 August - 19 September 2010
+
+[QCD and Strings: Elements of a Universal Theory](http://physik.uni-graz.at/itp/oberw/oberw10/)  
+Oberwölz (Austria), 29 August - 4 September 2010
+
+[6th Modave Summer School in Mathematical Physics](http://www.ulb.ac.be/sciences/ptm/pmif/Rencontres/ModaveVI.html)  
+Modave (Belgium), 29 August - 4 September 2010
+
+[Supersymmetry in Integrable Systems - SIS'10](http://www.ysu.am/sis/)  
+Yerevan (Armenia), 24-28 August 2010
+
+[SUSY 2010](http://susy10.uni-bonn.de/)  
+Bonn (Germany), 23-28 August 2010
+
+[Recent Developments in String/M-Theory and Field Theory](http://people.physik.hu-berlin.de/~ahoop/)  
+Berlin (Germany), 23-27 August 2010
+
+[Master Class on Wall Crossing](http://www.qgm.au.dk/events/wall-crossing/)  
+Aarhus (Denmark), 16-20 August 2010
+
+[Workshop on Quantum Dilogarithm and Quantum Teichmueller Theory](http://www.qgm.au.dk/events/quantumdilogarithm/)  
+Aarhus (Denmark), 9-13 August 2010
+
+[Summer Institute 2010 (Cosmology & String)](http://www2.yukawa.kyoto-u.ac.jp/~stcu/si10/)  
+Fuji-Yoshida (Japan), 4-14 August 2010
+
+[AdS Holography and the Quark-Gluon Plasma](http://quark.itp.tuwien.ac.at/~ads/)  
+ESI Vienna (Austria), 2 August - 29 October 2010
+
+[Representation theory of algebraic groups and quantum groups '10](http://www.math.nagoya-u.ac.jp/~shoji/raq3/conf.html)  
+Nagoya (Japan), 2-6 August 2010
+
+[Modern Cosmology: Early Universe, CMB and LSS](http://benasque.org/2010cosmology/)  
+Benasque (Spain), 1-20 August 2010
+
+[Quantum Gravity in the Southern Cone V](https://dl.dropbox.com/u/2114657/QGSC-V/index.htm)  
+Buenos Aires (Argentina), 28-31 July 2010
+
+[Supersymmetry, Strings and Gauge Theory](http://insti.physics.sunysb.edu/itp/conf/simonswork8/)  
+Stony Brook (USA), 26 July - 20 August 2010
+
+[International School On Strings And Fundamental Physics 2010](http://www.universe-cluster.de/sfp10)  
+Munich (Germany), 25 July - 6 August 2010
+
+[International Conference on Strings, M-Theory, and Quantum Gravity](http://www.strings-ascona.ethz.ch/)  
+Ascona (Switzerland), 25-30 July 2010
+
+[14th Paris Cosmology Colloquium 2010 - The standard model of the universe: theory and observations](http://chalonge.obspm.fr/colloque2010.html)  
+Paris (France), 22-24 July 2010
+
+[International Conference on High Energy Physics (ICHEP) 2010](http://www.ichep2010.fr/)  
+Paris (France), 21-28 July 2010
+
+[Aspects of Supersymmetry](http://www.sns.ias.edu/pitp/)  
+Princeton (USA), 19-30 July 2010
+
+[Topological Strings, Modularity and non-perturbative Physics](http://hep.itp.tuwien.ac.at/~kreuzer/TSTMP.html)  
+Vienna (Austria), 19-28 July 2010
+
+[International School in Quantum Gravity](http://www.fisica.unlp.edu.ar/strings/school2010/)  
+La Plata (Argentina), 19-27 July 2010
+
+[PASCOS 2010](http://pascos2010.astroparticles.es/)  
+Valencia (Spain), 19-23 July 2010
+
+[Probability and Statistical Physics in Two and more Dimensions](http://claymath.org/programs/summer_school/2010/)  
+Buzios (Brazil), 11 July - 7 August 2010
+
+[Mathematica Summer School on Theoretical Physics: Condensed Matter and Two-dimensional physics](http://www.fc.up.pt/cfp/mathematica/)  
+Porto (Portugal), 11-16 July 2010
+
+[Confining Flux Tubes and Strings](http://www.ect.it/)  
+Trento (Italy), 5-9 July 2010
+
+[String Phenomenology 2010](http://stringpheno.cpht.polytechnique.fr)  
+Paris (France), 5-9 July 2010
+
+[19th International Conference on General Relativity and Gravitation](http://www.gr19.com/)  
+Mexico City (Mexico), 5-9 July 2010
+
+[Integrability in Gauge and String Theory 2010](http://www.nordita.org/igst2010)  
+Stockholm (Sweden), 28 June - 2 July 2010
+
+[PASI Summer School on Quantum Gravity](http://www.physics.ucsb.edu/~pasi/)  
+Morelia (Mexico), 23 June - 3 July 2010
+
+[Cargèse School - String Theory: Formal Developments and Applications](http://www.lpthe.jussieu.fr/cargese/)  
+Cargèse (France), 21 June - 3 July 2010 
+
+[Summer School on Mathematical String Theory 2010](http://www.phys.vt.edu/mp10/)  
+Blacksburg (USA), 21 June - 2 July 2010 
+
+[D-branes, Effective Actions and Homological Mirror Symmetry](http://hep.itp.tuwien.ac.at/~kreuzer/TSTMP.html)  
+Vienna (Austria), 21-30 June 2010
+
+[Croatian Black Hole School](http://antimodave.jimdo.com/)  
+Trpanj (Croatia), 21-25 June 2010
+
+[Eurostrings 2010](http://www.ift.uam.es/Eurostrings2010/main.html)  
+Madrid (Spain), 14-18 June 2010
+
+[QFT, String Theory & Mathematical Physics](http://www.kitpc.ac.cn/program.jsp?id=PS20100607)  
+Beijing (China), 7 June - 13 August 2010
+
+[Summer school on structures in local quantum field theory](http://math.bu.edu/people/dkreimer/houches/houches.html)  
+Les Houches (France), 7-25 June 2010
+
+[Workshop on Algebraic Geometry and Physics](http://people.sissa.it/~bruzzo/wagp2010/index.htm)  
+Saint Jean des Monts (France), 7-11 June 2010
+
+[Geometry, Integrability and Quantization](http://www.bio21.bas.bg/conference/)  
+Varna (Bulgaria), 4-9 June 2010
+
+[The Dark side of the Universe](http://www.ifug.ugto.mx/~dsu2010/index.php)  
+Léon (Mexico), 1-6 June 2010
+
+[Integrability in String and Gauge Theories; AdS/CFT Duality and its Applications](http://agenda.albanova.se/conferenceDisplay.py?confId=1130)  
+Stockholm (Sweden), 31 May - 9 July 2010
+
+[Planck 2010](http://indico.cern.ch/conferenceDisplay.py?confId=75810)  
+Geneva (Switzerland), 31 May - 4 June 2010
+
+[QUARKS-2010](http://quarks.inr.ac.ru/)  
+Kolomna (Russia), 30 May - 5 June 2010
+
+[Solvay Workshop on Symmetries and Dualities in Gravitational Theories](http://www.solvayinstitutes.be/Activities/Gravitational/Dualities)  
+Brussels (Belgium), 19-21 May 2010
+
+[Spring meeting of the String Vacuum Project](http://nuweb.neu.edu/bnelson/svp2010.html)  
+Santa Barbara (USA), 3-5 May 2010
+
+[Second Joburg Workshop on String Theory: Correlation Functions and the AdS/CFT Correspondence](http://neo.phys.wits.ac.za/workshop_2/)  
+Johannesburg (South Africa), 26-30 April 2010
+
+[14th Annual UK Meeting on Integrable Models, Conformal Field Theory and Related Topics](http://www.kent.ac.uk/ims/personal/tcd/webpages/icft10/index.html)  
+Canterbury (UK), 16-17 April 2010
+
+[Fundaments of Gravity](http://www.universe-cluster.de/fog)  
+Munich (Germany), 12-16 April 2010
+
+[IPM String School and Workshop](http://physics.ipm.ac.ir/conferences/iss2010/)  
+Tehran (Iran), 9-15 April 2010
+
+[Gauge Theories, Supersymmetry and Mathematical Physics](http://math.univ-lyon1.fr/~salnikov/gtsmp/)  
+Lyon (France), 6-10 April 2010
+
+[Crete Workshop on Frontiers of Cosmology](http://hep.physics.uoc.gr/cosmo09/index.html)  
+Heraklion (Crete/Greece), 28 March - 5 April 2010
+
+[Spring School on Superstring Theory and Related Topics](http://cdsagenda5.ictp.it/full_display.php?ida=a09137)  
+Trieste (Italy), 22-30 March 2010
+
+[Strings 2010](http://mitchell.physics.tamu.edu/Conference/string2010/)  
+College Station (Texas, USA), 15-19 March 2010
+
+[AdS/CFT: New Developments and Applications](http://www.physics.princeton.edu/pcts/adscft/adscft.html)  
+Princeton (USA), 11-12 March 2010
+
+[Strings at the LHC and in the Early Universe](http://www.kitp.ucsb.edu/activities/auto/?id=972)  
+Santa Barbara (USA), 8 March - 14 May 2010
+
+[Beyond the Standard Model](http://www.desy.de/uni-th/stringth/bad-honnef/)  
+Bad Honnef (Germany), 8-11 March 2010
+
+[Nordic String Theory Meeting 2010](http://www.itp.uni-hannover.de/nordic/)  
+Hannover (Germany), 22-23 February 2010
+
+[International Moscow School of Physics: Particle Physics](http://www.itep.ru/ws/2010/?info)  
+Moscow (Russia), 13-20 February 2010
+
+[Iberian Strings 2010](http://faraday.fc.up.pt/cfp/IberianStrings/program.html)  
+Porto (Portugal), 10-12 February 2010
+
+[Workshop GUTs and Strings](http://wwwth.mppmu.mpg.de/members/blumenha/gutworkshop/index.html)  
+Munich (Germany), 10-12 February 2010
+
+[IPMU Focus Week: Condensed Matter Physics Meets High Energy Physics](http://www.theory.caltech.edu/~ooguri/CMP-HEP/CMP-HEP.htm)  
+IPMU, the University of Tokyo (Japan), 8-12 February 2010
+
+[Supersymmetry in Mathematics and Physics](http://www.math.ucla.edu/supersymmetry/)  
+Los Angeles (USA), 6-7 February 2010
+
+[CERN Winter School on Supergravity, Strings, and Gauge Theory 2010](http://indico.cern.ch/conferenceDisplay.py?confId=58217)  
+Geneva (Switzerland), 25-29 January 2010
+
+[Gauge Fields. Yesterday, Today, Tomorrow: Conference dedicated to the 70-th anniversary of Andrei Alekseevich Slavnov](http://slavnov70.mi.ras.ru/)  
+Moscow (Russia), 19-24 January 2010
+
+[Fourth Asian Winter School on Strings, Particles and Cosmology](http://www.icts.res.in/program/asian4)  
+Mahabaleshwar (India), 11 - 20 January 2010
+
+## 2009
+
+
+[V Avogadro Meeting on Strings, Supergravity and Gauge theories](http://www.sissa.it/he/avogadro)   
+Trieste (Italy), 21-23 December 2009 
+
+[PASC Winter School](http://pasc.ist.utl.pt/winterschool2009/)  
+Sesimbra (Portugal), 19-21 December 2009 
+
+[24th Nordic Network Meeting on Fields, Strings and Branes](http://thep.housing.rug.nl/nordic24)  
+Groningen (the Netherlands), 3 December 2009 - 5 December 2009
+
+[Workshop on Interfaces and Wall-crossings](http://www.asc.physik.lmu.de/activities/workshops/200911_30/index.html)  
+Munich (Germany), 30 November - 4 December 2009
+
+[AdS/CFT: strongly coupled systems and exact results](http://www.lpt.ens.fr/Conferences/Paris2009/index.html)  
+Paris (France), 26-27 November 2009
+
+[LACES 2009 - Lezioni Avanzate di Campi E Stringhe](http://ggi-www.fi.infn.it//index.php?p=events.inc&id=61)  
+Florence (Italy), 23 November - 11 December 2009
+
+[Facets of Integrability](http://indico.in2p3.fr/conferenceDisplay.py?confId=1886)  
+Gif-sur-Yvette (France), 5-7 November 2009
+
+[Experiment Confronts String Theory](http://alzt.tau.ac.il/~ibtisam/minerva_sympo09.html)  
+Berlin (Germany), 12-15 October 2009
+
+[Matrix Models and Geometry](http://www.math.ist.utl.pt/~strings/MMG/)  
+Lisbon (Portugal), 5 October - 20 December 2009
+
+[String-Steilkurs - Part II: Advanced topics in String Theory](http://www.desy.de/uni-th/stringth/SSK/)  
+Potsdam (Germany), 28 September - 2 October 2009
+
+[Fifth Aegean Summer School - From gravity to thermal gauge theories: The AdS/CFT correspondence](http://www.physics.ntua.gr/cosmo09/)  
+Adamas (Milos Island/Greece), 21-26 September 2009
+
+[Workshop on Algebraic Geometry and Physics](http://people.sissa.it/~bruzzo/wagp09/index.htm)  
+Maresias (Brazil), 14-18 September 2009
+
+[First Mediterranean Conference on Classical and Quantum Gravity](http://www.phy.olemiss.edu/mccqg/)  
+Kolymbari (Crete/Greece), 14-18 September 2009
+
+[Second School on Quantum Gravity and Quantum Geometry](http://www.maths.nottingham.ac.uk/qg/CorfuSS.html)  
+Corfu (Greece), 13-20 September 2009
+
+[Quantum topology and Chern-Simons theory](http://www-irma.u-strasbg.fr/article744.html?lang=en)  
+Strasbourg (France), 10-12 September 2009
+
+[15-th European Workshop on String Theory](http://www.phys.ethz.ch/~swood/stringworkshop/index.html)  
+Zurich (Switzerland), 7-11 September 2009
+
+[School and Workshop on Cosmology and Strings](http://www.physics.ntua.gr/corfu2009/)  
+Corfu (Greece), 6-13 September 2009
+
+[Workshop on the Fluid-Gravity Correspondence](http://www.asc.physik.lmu.de/activities/workshops/200909_2-7/)  
+Munich (Germany), 2-7 September 2009
+
+[Summer School for Graduate Students: Foundations and New Methods in Theoretical Physics](http://www.itp.uni-hannover.de/saalburg/)  
+Wolfersdorf (Germany), 31 August - 11 September 2009
+
+[BPS state counting, stability structures and derived algebraic geometry](http://www.math.uni-hamburg.de/home/mohrdieck/summerschool.html)  
+Hamburg (Germany), 31 August - 4 September 2009
+
+[Modave Summer School in Mathematical Physics](http://www.ulb.ac.be/sciences/ptm/pmif/Rencontres/ModaveV.html)  
+Modave (Belgium), 17-21 August 2009
+
+[Hidden Structures in Field Theory Amplitudes 2009](https://indico.nbi.ku.dk/conferenceDisplay.py?confId=71)  
+Copenhagen (Denmark) 12-14 August 2009
+
+[XVI International Congress on Mathematical Physics](http://www.icmp09.com/)  
+Prague (Czech Republic), 3-8 August 2009
+
+[Loops '09](http://www.loops09.org/)  
+Beijing (China), 2-7 August 2009
+
+[Unity of String Theory](http://www.aspenphys.org/documents/program/summer09.html)  
+Aspen (USA), 26 July - 16 August 2009
+
+[The BNU International Summer School on Quantum Gravity](http://www.loops09.org/school.htm)  
+Beijing (China), 26 July -1 August 2009
+
+[Sixth International Symposium on Quantum Theory and Symmetries (QTS6)](http://www.pa.uky.edu/qts6/)  
+Lexington (Kentucky/USA), 20-25 July 2009
+
+[The 2009 Europhysics Conference on High Energy Physics](http://www.ifj.edu.pl/hep2009/index.php)  
+Krakow (Poland), 16-22 July 2009
+
+[12th Marcel Grossman meeting](http://www.icra.it/MG/mg12/en/welcome.htm)  
+Paris (France), 12-18 July 2009
+
+[15th International Symposium on Particles, Strings and Cosmology (PASCOS 2009)](http://pascos2009.desy.de/)  
+Hamburg (Germany), 6-10 July 2009
+
+[Symposium on Theoretical and Mathematical Physics](http://www.pdmi.ras.ru/EIMI/2009/tmp/index.html)  
+St.Petersburg (Russia), 3-8 July 2009
+
+[Quantum Criticality and the AdS/CFT Correspondence](http://www.kitp.ucsb.edu/activities/auto/?id=966)  
+Santa Barbara (California/USA), 29 June - 24 July 2009
+
+[String Theory](http://sophia.ecm.ub.es/2009strings/)  
+Benasque (Spain), 29 June - 10 July 2009
+
+[5th Crete Regional Meeting in String Theory](http://hep.physics.uoc.gr/mideast5/index.html)  
+Kolymbari (Crete/Greece), 29 June  - 6 July 2009
+
+[The Planck Scale](http://www.ift.uni.wroc.pl/~planckscale/)  
+Wroclaw (Poland), 29 June - 3 July 2009
+
+[Integrability in Gauge and String Theory](http://int09.aei.mpg.de)  
+Potsdam (Germany), 29 June - 3 July 2009
+
+[IST String Fest](http://www.math.ist.utl.pt/~strings/StringFest/)  
+Lisbon (Portugal), 29 June - 1 July 2009
+
+[Summer School on Particle Physics, Cosmology and Strings](http://www.perimeterinstitute.ca/summerschool09)  
+Waterloo (Canada), 24 June -1 July 2009
+
+[Strings 2009](http://strings2009.roma2.infn.it/home.html)  
+Rome (Italy), 22-26 June 2009
+
+[Geometric Flows in Mathematics and Theoretical Physics](http://cvgmt.sns.it/MPRicci-Workshop)  
+Pisa (Italy), 22-25 June 2009
+
+[14th Itzykson Meeting on String Theory: Recent Advances in String Theory](http://ipht.cea.fr/Meetings/Itzykson2009/)  
+Saclay (France), 17-19 June 2009
+
+[8-th International Workshop "Lie Theory and Its Applications in Physics"](http://theo.inrne.bas.bg/~dobrev/LT-8.htm/)  
+Varna (Bulgaria), 15-21 June 2009
+
+[Integrability in gauge/string dualities (Mathematica Summer School on Theoretical Physics)](http://www.fc.up.pt/cfp/mathematica/index.html)  
+Porto (Portugal), 15-20 June 2009
+
+[String Phenomenology '09](http://www.fuw.edu.pl/~sp09)  
+Warsaw (Poland), 15-19 June 2009
+
+[Representation theory in Mathematics and in Physics](http://www-irma.u-strasbg.fr/article717.html?lang=en)  
+Strasbourg (France), 11-13 June 2009
+
+[Recursion structures in topological string theory and enumerative geometry](http://www.aimath.org/ARCC/workshops/recursionstruct.html)  
+American Institute of Mathematics, Palo Alto (USA), 8-12 June 2009
+
+[Susy 09](http://nuweb.neu.edu/susy09/)  
+Boston (USA), 5-10 June 2009
+
+[Beyond the Standard Model Physics and LHC Signatures](http://nuweb.neu.edu/susy09/)  
+Boston (USA), 2-4 June 2009
+
+[Non-perturbative Gravity and Quantum Chromodynamics](http://th-www.if.uj.edu.pl/school/2009/)  
+Zakopane (Poland), 31 May - 10 June 2009
+
+[Planck 09](http://www.pd.infn.it/planck09/)  
+Padova (Italy), 25-29 May 2009
+
+[String Duals of Finite Temperature and Low-Dimensional Systems](http://www.aspenphys.org/documents/program/summer09.html)  
+Aspen (USA), 24 May - 14 June 2009
+
+[Focus Week on New Invariants and Wall Crossing](http://member.ipmu.jp/domenico.orlando/FocusInvariants.html)  
+IPMU, Kashiwa (Japan), 18-22 May 2009
+
+[Workshop on Logarithmic Conformal Field Theory](http://www.phys.ethz.ch/~swood/lcft/index.html)  
+Zurich (Switzerland), 7-9 May 2009
+
+[The 23rd Nordic Network Meeting on "Strings, Fields and Branes"](https://indico.nbi.ku.dk/conferenceDisplay.py?confId=65)  
+Copenhagen (Denmark), 16-18 April 2009
+
+[Second International Conference on String Field Theory and Related Aspects](http://sft09.mi.ras.ru/)  
+Moscow (Russia), 12-19 April 2009
+
+[New Perspectives in String Theory](http://ggi-www.fi.infn.it/index.php?p=events.inc&id=25)  
+Florence (Italy), 6 April - 19 June 2009
+
+[Great Lake String Conference ](http://www.umich.edu/~mctp/SciPrgPgs/events/2009/GLS08/index.html)  
+Ann Arbor (Michigan/USA), 3-5 April 2009
+
+[13th Annual UK meeting on Integrable Models, Conformal Field Theory and Related Topics](http://icft09.physics.ox.ac.uk/index.html)  
+Oxford (UK), 3-4 April 2009
+
+[Supersymmetry, Branes and M-Theory: A Meeting in Celebration of Michael Duff's 60th Birthday](http://plato.tp.ph.ic.ac.uk/conferences/duff-fest/)  
+London (UK), 1-2 April 2009
+
+[Spring School on Strings, Cosmology and Particles](http://seenet-mtp.info/ssscp2009/)  
+Belgrade/Nis (Serbia), 31 March - 4 April 2009
+
+[International workshop on gauge and string amplitudes](http://www.ippp.dur.ac.uk/Workshops/09/Amplitudes/)  
+Durham (UK), 30 March - 3 April 2009
+
+[Nordic String Theory Meeting](http://mathphys.jacobs-university.de/Nordic/)  
+Bremen (Germany), 26-27 March 2009
+
+[Random matrices and integrability: From theory to applications](http://www.hit.ac.il/staff/kanzieper/yad8)  
+Yad Hashmona (Israel), 25-30 March 2009
+
+[Algebraic and combinatorial structures in quantum field theory](http://www-math.unice.fr/~patras/CargeseConference/index.html)  
+Cargèse (Corsica, France), 23 March - 3 April 2009
+
+[Spring School on Superstring Theory and Related Topics](http://cdsagenda5.ictp.it/full_display.php?ida=a08147)  
+Trieste (Italy), 23-31 March 2009
+
+[Beyond the standard model](http://www.desy.de/uni-th/stringth/bad-honnef/index.html)  
+Bad Honnef (Germany), 15-19 March 2009
+
+[AdS Collective](http://www.ift.uam.es/workshops/AdScollective/)  
+Madrid (Spain), 16-19 February 2009
+
+[The 3rd Asian School of Particles, Strings and Cosmology](http://www-conf.kek.jp/nasulec/)  
+Nakazawa (Japan), 9-13 February 2009
+
+[CERN Winter School on Supergravity, Strings and Gauge Theories](http://indico.cern.ch/conferenceDisplay.py?confId=37753)  
+Geneva (Switzerland), 9-13 February 2009
+
+[International Symposium on Nuclear & Related Techniques](http://www.ceaden.cu/nurt/index.asp)  
+Havana (Cuba), 9-12 February 2009
+
+[Summer School in Particles and Fields](http://www.sbf1.sbfisica.org.br/eventos/evjas-pc/xv/index_i.shtml)  
+Campos do Jordão (Brazil), 12-23 January 2009
+
+[3rd Asian Winter School on String Theory](http://www.itp.ac.cn/conference.php?cID=string08)  
+ITP, Beijing (China), 7-17 January 2009
+
+[Fundamental Aspects of Superstring Theory](http://www.kitp.ucsb.edu/activities/auto/?id=947)  
+Santa Barbara (USA), 5 January - 29 May 2009
+
+## 2008
+
+
+[Particle Physics in the Age of LHC](http://www.as.huji.ac.il/schools/phys26/)  
+Jerusalem (Israel), 29 December 2008 - 8 January 2009
+
+[Quantum Gravity in Cracow^2](http://th-www.if.uj.edu.pl/QGiC/)  
+Cracow (Poland), 19-21 December 2008
+
+[PASC Winter School](http://pasc.ist.utl.pt/winterschool2008/)  
+Sesimbra (Portugal), 17-19 December 2008
+
+[DISCRETE '08: Symposium on Prospects in the Physics of Discrete Symmetries](http://ific.uv.es/discrete08/)  
+Valencia (Spain), 11-16 December 2008
+
+[Applications of the Gauge/Gravity Duality 2008](http://cosmology.uct.ac.za/Applications_of_AdS_CFT/Main.html)  
+Cape Town (South Africa), 8-12 December 2008
+
+[Indian Strings Meeting 2008](http://www.imsc.res.in/ism08)   
+Pondicherry (India), 6-13 December 2008
+
+[Workshop on Field Theory and Geometric Flows](http://wwwth.mppmu.mpg.de/members/strings/Ricci/ricci.html)  
+Munich (Germany), 24-28 November 2008
+
+[Workshop on Applied 2d Sigma Models](http://www.desy.de/desy-th/strings/events/0811/sigmamodels.html)  
+Hamburg (Germany), 10-14 November 2008
+
+[Strings and Cosmology Student Conference 2008](http://scsc08.googlepages.com/home)  
+Paris (France), 30-31 October 2008
+
+[Geometrical Aspects of String Theory](http://www.teorfys.uu.se/geometricalaspects/)  
+Stockholm (Sweden), 20-24 October 2008
+
+[Algebra, Geometry, and Mathematical Physics](http://www.agmf.astralgo.eu/tartu08/)  
+Tartu (Estonia), 9-11 October 2008
+
+[Mathematical challenges in string phenomenology](http://hep.itp.tuwien.ac.at/~kreuzer/MCSP.html)  
+Vienna (Austria), 6-15 October 2008
+
+[Arnold Sommerfeld School on (Boundary) Conformal Field Theory: Introduction and Applications](http://homepages.physik.uni-muenchen.de/~gabriel.cardoso/2008Sommerfeldschule.html)  
+LMU Munich (Germany), 6-10 October 2008
+
+[Ahrenshoop Symposium: Recent Developments in String/M-Theory and Field Theory](http://people.physik.hu-berlin.de/~ahoop08/)  
+Wernsdorf (Germany), 6-10 October 2008
+
+[13th Mexican School of Particles and Fields](http://www.nucleares.unam.mx/~mspf2008)  
+San Carlos (Sonora/Mexico), 3-11 October 2008
+
+[String-Steilkurs I: Introduction to string theory](http://www.desy.de/uni-th/stringth/SSK/)  
+Golm (Germany), 29 September - 2 October 2008
+
+[Recent Developments in String/M Theory](http://workshop.kias.re.kr/branes2008/)  
+Seoul (South Korea), 22-26 September 2008
+
+[Beyond the standard model](http://www.ippp.dur.ac.uk/Workshops/08/UKBSM08/)  
+Sussex (UK), 22-23 September 2008
+
+[Superstrings @ Cyprus](http://www.ucy.ac.cy/~phyweb/eu_str/)  
+Ayia Napa (Cyprus), 21-27 September 2008
+
+[Workshop on Continuum and Lattice Approaches to Quantum Gravity](http://www.ippp.dur.ac.uk/Workshops/08/CLAQG/)  
+Sussex (UK), 17-19 September 2008
+
+[Spanish Relativity Meeting 2008: Physics and Mathematics of Gravitation](http://www.usal.es/ere2008/)  
+Salamanca (Spain), 15-19 September 2008
+
+[Summer School on Representation Theory and Statistical Mechanics](http://wmaz.math.uni-wuppertal.de/reineke/summerschool08/)  
+Wuppertal (Germany), 15-19 September 2008
+
+[Geometry and Integrability in Mathematical Physics (GIMP'08)](http://www.lptms.u-psud.fr/gimp08/)  
+Luminy (France), 15-19 September 2008
+
+[School on Non-Perturbative Methods in Quantum Field Theory](http://www.ippp.dur.ac.uk/Workshops/08/NPMQFT/)  
+Sussex (UK), 15-16 September 2008
+
+[RTN Workshop: Constituents, Fundamental Forces and Symmetries of the Universe](http://theo.inrne.bas.bg/~dobrev/FU-4.htm)  
+Varna (Bulgaria), 11-17 September 2008
+
+[NBIA Workshop: Hidden Structures in Field Theory Amplitudes](https://indico.nbi.ku.dk/conferenceDisplay.py?confId=18)  
+Copenhagen (Denmark), 10-12 September 2008
+
+[Parma International School of Theoretical Physics](http://www.pr.infn.it/snft/2008/snft-2008.html)  
+Parma (Italy), 8-13 September 2008
+
+[From integrable structures to topological strings and back](http://misgam.sissa.it/topstrings/home.htm)  
+Trieste (Italy), 8-12 September 2008
+
+[Low-dimensional Quantum Field Theories and Applications](http://ggi-www.fi.infn.it/index.php?p=events.inc&id=21)  
+Florence (Italy), 1 September - 7 November 2008
+
+[Saalburg Summer School for Graduate Students: Foundations and new methods of theoretical physics](http://www.itp.uni-hannover.de/saalburg)  
+Wolfersdorf (Germany), 1-12 September 2008
+
+[Geometric Analysis: Present and Future (on the occasion of the birthday of Shing-Tung Yau)](http://pamq.henu.edu.cn/add/Yau/index.html)  
+Boston (USA), 27 August - 1 September 2008
+
+[Black Holes: A Landscape of Theoretical Physics Problems](http://ph-dep-th.web.cern.ch/ph-dep-th/content2/THInstitutes/2008/blackholes/)  
+CERN, Geneva (Switzerland), 25 August - 10 October, 2008
+
+[Black Holes in General Relativity and String Theory](http://umbriel.phy.hr/losinj08/)  
+Veli Lošinj (Croatia), 24-30 August 2008
+
+[Strings 08](http://cern.ch/strings2008/)  
+CERN, Geneva (Switzerland), 18-23 August 2008
+
+[Integrability in Gauge and String Theory](http://www.science.uu.nl/IGST08/)  
+Utrecht (Netherlands), 11-15 August 2008
+
+[Prestrings 08](http://www.itp.phys.ethz.ch/staff/gaberdiel/Prestrings/index.html)  
+Zurich (Switzerland), 11-15 August 2008
+
+[34th International Conference on High Energy Physics (ICHEP08)](http://www.ichep08.com/)  
+Philadelphia (USA), 29 July - 5 August 2008
+
+[Particles, Fields and Strings - Summer School](http://http://www.pims.math.ca/science/2008/08pfs/index.html)  
+Vancouver, British Columbia (Canada), 22 July - 1 August 2008
+
+[String phenomenology - CERN theory institute](http://ph-dep-th.web.cern.ch/ph-dep-th/content2/THInstitutes/2008/strings/strings.html)  
+CERN, Geneva (Switzerland), 21 July - 15 August 2008
+
+[String phenomenology (PiTP program)](http://www.sns.ias.edu/pitp/)  
+Princeton (USA), 14-25 July 2008
+
+[17th Oporto Meeting on Geometry, Topology and Physics](http://faraday.fc.up.pt/omgtp2008/)  
+Oporto (Portugal), 10-13 July 2008
+
+[Summer School and Conference on Modern Mathematical Physics](http://www.mphys5.phy.bg.ac.yu/)  
+Belgrade (Serbia), 6-17 July 2008
+
+[Gauge Theory and String Theory](http://www.phys.ethz.ch/~mrg/QCD/2008.html)  
+Zurich (Switzerland), 2-4 July 2008
+
+[Eurostrings 2008](http://www.science.uva.nl/research/itf/strings/amsterdam2008/)  
+Amsterdam (Netherlands), 30 June - 4 July 2008
+
+[7th Alexander Friedmann seminar on gravitation and cosmology](http://www.fisica.ufpb.br/eventos/friedmann2008/)  
+João Pessoa (Brazil), 29 June - 5 July 2008
+
+[Wonders of Gauge theory and Supergravity](http://www-spht.cea.fr/Images/Pisp/pvanhove/Paris08/index.html)  
+Paris (France), 23-28 June 2008
+
+[Cargèse school on Theory and Particle Physics: the LHC perspective and beyond](http://string.lpthe.jussieu.fr/cargese/2008/)  
+Cargèse (Corsica/France), 16-28 June 2008
+
+[SUSY08](http://susy08.kias.re.kr)  
+Seoul (Korea), 16-21 June 2008
+
+[Cracow School of Theoretical Physics: Aspects of Duality](http://th-www.if.uj.edu.pl/school/2008/)  
+Zakopane (Poland), 13-22 June 2008
+
+[Varna Conference: Geometry, Integrability and Quantization](http://www.bio21.bas.bg/conference/)  
+Varna (Bulgaria), 6-11 June 2008
+
+[Monsoon workshop on String Theory](http://icts.tifr.res.in/sites/strings)  
+Mumbai (India), 2 June - 8 August 2008
+
+[14th intl symposium on particles, strings, and cosmology (PASCOS 08)](http://www.perimeterinstitute.ca/Events/PASCOS_08/PASCOS_08/)  
+Waterloo (Canada), 1-6 June 2008
+
+[The dark side of the universe](http://ctp.bue.edu.eg/dsu.htm)  
+Cairo (Egypt), 1-5 June 2008
+
+[String Phenomenology 2008](http://www.math.upenn.edu/StringPhenom2008/)  
+Philadelphia (USA), 28 May - 1 June 2008
+
+[The 32nd Johns Hopkins Workshop: Perspectives in String Theory](http://www.32ndjhw.blogspot.com/)  
+Seoul (Korea), 27-31 May 2008
+
+[Clifford Algebras and their Applications in Mathematical Physics](http://www.ime.unicamp.br/~icca8)  
+Campinas (Brazil), 26-30 May 2008
+
+[Introductory School on Gauge Theory/Gravity Correspondence](http://cdsagenda5.ictp.trieste.it/full_display.php?ida=a07152)  
+Trieste (Italy), 19-30 May 2008
+
+[Planck 2008](http://www.ifae.es/planck2008/)  
+Barcelona (Spain), 19-24 May 2008
+
+[New Paths Towards Quantum Gravity](http://www.math.uni-bonn.de/people/aglesch/N1P2T3Q4G5/index.html)  
+Holbæk (Denmark), 12-16 May 2008
+
+[Matrix Factorizations in Physics and Mathematics](http://www.birs.ca/birspages.php?task=displayevent&event_id=08w5080)  
+Banff (Canada), 11-16 May 2008
+
+[Gravitation, supersymmetry and branes: a meeting in celebration of Kellogg Stelle's 60th Birthday](http://plato.tp.ph.ic.ac.uk/conferences/kellyfest/)  
+London (UK), 24-25 April 2008
+
+[Loops and Legs in Quantum Field Theory](https://indico.desy.de/conferenceDisplay.py?confId=476)  
+Sondershausen (Germany), 20-25 April 2008
+
+[Non-Perturbative Methods in Strongly Coupled Gauge Theories](http://ggi-www.fi.infn.it/activities/workshops/npmgauge/npmgauge.html)  
+Florence (Italy), 14 April - 27 June 2008
+
+[Quantum Gravity: Challenges and Perspectives](http://quantumgravity.aei.mpg.de/)  
+Bad Honnef (Germany), 14-16 April 2008
+
+[12th Annual UK Meeting on Integrable Models, Conformal Field Theory and Related Topics](http://www.icms.org.uk/workshops/icft08)  
+Edinburgh (UK), 11-12 April 2008
+
+[String vacuum project: kick-off meeting](http://www.physics.arizona.edu/svp08/)  
+Tucson (Arizona/USA), 10-12 April 2008
+
+[IPM string school and workshop](http://physics.ipm.ac.ir/conferences/iss2008)  
+Isfahan (Iran), 9-17 April 2008
+
+[String Theory - From Theory to Experiment](http://www.as.huji.ac.il/workshops/isf/strings/)  
+Jerusalem (Israel), 6-11 April 2008
+
+[Pre-workshop school: String Theory - From Theory to Experiment](http://www.as.huji.ac.il/workshops/isf/strings/pre.php)  
+Rehovot (Israel), 1-4 April 2008
+
+[The geometry and integrability of topological QFT and string theory](http://www.math.uni-augsburg.de/geo/wendland/Warwick_TQFT/Warwick_TQFT.html)  
+Warwick (UK), 31 March - 5 April 2008
+
+[Spring School on Superstring Theory and Related Topics](http://cdsagenda5.ictp.trieste.it/full_display.php?ida=a07144)  
+Trieste (Italy), 27 March - 4 April 2008
+
+[String Phenomenology and Dynamical Vacuum Selection](http://www.maths.liv.ac.uk/TheorPhys/people/staff/tatar/spdvs07/1.html)  
+Liverpool (UK), 27-29 March 2008
+
+[From Strings to Things: String Theory Methods in QCD and Hadron Physics](http://www.int.washington.edu/PROGRAMS/08-1.html)  
+Seattle (USA), 24 March - 6 June 2008
+
+[Spring School: The geometry and integrability of topological QFT and string theory](http://www.math.uni-augsburg.de/geo/wendland/Warwick_TQFT/Warwick_TQFT.html)  
+Warwick (UK), 24-29 March 2008
+
+[String field theory and related aspects](http://www.theorie.physik.uni-muenchen.de/~strings/pgst2/)  
+Munich (Germany), 24-28 March 2008
+
+[Beyond the standard model](http://www.desy.de/uni-th/stringth/bad-honnef)  
+Bad Honnef (Germany), 10-13 March 2008
+
+[International School on Geometry and Physics: Moduli spaces in geometry, topology and physics](http://www.mat.csic.es/webpages/moduli2008/school/index.html)  
+Cantabria (Spain), 25-29 February 2008
+
+[Spring School on Quantum Structures](http://www.physik.uni-leipzig.de/springschool.html)  
+Leipzig (Germany), 18-23 February 2008
+
+[Integrability in the AdS/CFT correspondence](http://www.math.uu.nl/adscft/)  
+Utrecht (Netherlands), 29-31 January 2008
+
+[Dutch School for Theoretical High Energy Physics](http://www1.phys.uu.nl/drstp/Postgr.courses/THEP/2008/info.html)  
+Driebergen (Netherlands), 28 January - 8 February 2008
+
+[RTN Winter School on Strings, Supergravity and Gauge Theories](http://www.unine.ch/phys/string/rtn-school/08/index.php)  
+CERN, Geneva (Switzerland), 21-25 January 2008
+
+[2nd Asian Winter School on String Theory](http://www-conf.kek.jp/nasulec/)  
+Kusatsu-Machi, Agatsuma-Gun Gunma (Japan), 15-25 January 2008
+
+## 2007
+
+
+[Conference: From strings to LHC - II](http://theory.tifr.res.in/~stringslhc/)  
+Bangalore (India), 19-23 December 2007
+
+[Ten Years of AdS/CFT](http://www.fisica.unlp.edu.ar/strings/adscft/)  
+Buenos Aires (Argentina), 19-21 December 2007
+
+[Conference on gravitation and cosmology](http://meghnad.iucaa.ernet.in/~icgc07/index.html)  
+Pune (India), 17-21 December 2007
+
+[Fields, Lattices and Condensed Matter: A symposium in honour of John Cardy's 60th birthday](http://www-thphys.physics.ox.ac.uk/user/FabianEssler/Fields.html)  
+Oxford (UK), 14-15 December 2007
+
+[School: From strings to LHC - II](http://theory.tifr.res.in/~stringslhc/)  
+Bangalore (India), 11-18 December 2007
+
+[Strings and Superstrings in Observational Cosmology](http://www.apc.univ-paris7.fr/CSS/)  
+Paris (France), 10-13 December 2007
+
+[Commutative and noncommutative quantum fields](http://www.univie.ac.at/vienna.seminar/2007/index.html)  
+Vienna (Austria), 30 November - 2 December 2007
+
+[Enumerative Combinatorics and Integrable Models of Statistical Mechanics](http://www.mfo.de/programme/schedule/2007/47a/programme0747a.html)  
+Oberwolfach (Germany), 18-24 November 2007
+
+[Ulf - a life in superspace: a workshop in geometry and supersymmetry on the occasion of Ulf Lindstrom's 60th birthday](http://www.teorfys.uu.se/alifeinsuperspace/)  
+Uppsala (Sweden), 15-16 November 2007
+
+[Workshop on recent developments in string effective actions and D-instantons](http://wwwth.mppmu.mpg.de/members/instanton-workshop/index.html)  
+Munich (Germany), 14-16 November 2007
+
+[Conformal Invariance in Mathematical Physics](http://www.mfo.de/programme/schedule/2007/45a/programme0745a.html)  
+Oberwolfach (Germany), 4-10 November 2007
+
+[Quantum gravity in the southern cone IV](http://qgsciv.fisica.edu.uy/)  
+Punta del Este (Uruguay), 22-25 October 2007
+
+[Algebra, geometry and mathematical physics](http://www.agmf.astralgo.eu/)  
+Göteborg (Sweden), 11-13 October 2007
+
+[Advanced String School](http://string.iopb.res.in/)  
+Bhubaneswar (India), 8-14 October 2007
+
+[Advanced Topics in String Theory (String Steilkurs - Part II)](http://www.desy.de/uni-th/stringth/SSK/)  
+Hamburg (Germany), 8-12 October 2007
+
+[RTN workshop: Constituents, Fundamental Forces and Symmetries of the Universe](http://www.uv.es/rtn07/index_dwt.htm)  
+Valencia (Spain), 1-5 October 2007
+
+[Quantum chromodynamics: string theory meets collider physics (DESY theory workshop)](https://indico.desy.de/conferenceDisplay.py?confId=429)  
+Hamburg (Germany), 25-28 September 2007
+
+[Local quantum field theory / Quantum field theory and noncommutative geometry](http://www.univie.ac.at/vienna.seminar/2007/courses.html)  
+Vienna (Austria), 24-28 September 2007
+
+[Gauge Fields and Strings - An Isaac Newton Institute School](http://www.newton.cam.ac.uk/programmes/SIS/sisw02.html)  
+Cambridge (UK), 17-27 September 2007
+
+[Spanish Relativity Meeting](http://www.iac.es/proyect/ere07/)  
+Puerto de La Cruz (Tenerife, Spain), 10-14 September 2007
+
+[Saalburg Summer School for Graduate Students](http://www.itp.uni-hannover.de/saalburg)  
+Wolfersdorf (Thüringen/Germany), 3-14 September 2007
+
+[Eötvös Superstring Workshop](http://elmfiz.elte.hu/~superstring/)  
+Budapest (Hungary), 3-7 September 2007
+
+[String Theory and Cosmology](http://www.kitpc.ac.cn/Activities/main.aspx?id=63574646)  
+Beijing (China), 1 September - 15 December 2007
+
+[Advancing Collider Physics: from Twistors to Monte Carlos](http://ggi-www.fi.infn.it/index.php?p=workshops.inc&id=184)  
+Florence (Italy), 27 August - 26 October 2007
+
+[British Universities Summer School in Theoretical Elementary Particle Physics (BUSSTEPP) 07](http://maths.york.ac.uk/www/BUSSTEPP)  
+York (UK), 26 August - 7 September 2007
+
+[Symmetries of String Theory](http://www.itp.phys.ethz.ch/staff/gaberdiel/Verita/2007.html)  
+Ascona (Switzerland), 26-31 August 2007
+
+[Summer School on Particle Physics, Cosmology and Strings at the Perimeter Institute](http://www.perimeterinstitute.ca/school07/)  
+Waterloo (Canada), 6-18 August 2007
+
+[Cargèse Summer School on Cosmology and Particle Physics Beyond the Standard Models](http://servant.web.cern.ch/servant/cargese/)  
+Cargèse (Corsica, France), 30 July - 11 August 2007
+
+[SUSY 07](http://www.susy07.uni-karlsruhe.de/)  
+Karlsruhe (Germany), 26 July - 1 August 2007
+
+[Infinite Dimensional Algebras and Quantum Integrable Systems (IDAQUIS 2007)](http://www.ualg.pt/idaquis/welcome.html)  
+Faro (Portugal), 23-27 July 2007
+
+[PreSUSY 07 - Summer School](http://www.susy07.uni-karlsruhe.de/presusy.php)  
+Karlsruhe (Germany), 23-25 July 2007
+
+[2007 Europhysics Conference on High Energy Physics](http://www.hep.man.ac.uk/HEP2007/index.html)  
+Manchester (UK), 19-25 July 2007
+
+[Istanbul 2007: Strings, Branes and Cosmology ](http://home.ku.edu.tr/~braneconference)  
+Koc University, Istanbul, Turkey, 9-13 July 2007
+
+[Workshop on Cosmology and Strings](http://cdsagenda5.ictp.trieste.it/full_display.php?ida=a06206)  
+Trieste (Italy), 9-13 July 2007
+
+[XVI Oporto Meeting on Geometry, Topology and Physics](http://www.ualg.pt/fct/omgtp/index.htm)  
+Oporto (Portugal), 5-8 July 2007
+
+[String Theory and Quantum Geometry](http://www.aspenphys.org/documents/program/summer07.html)  
+Aspen (Colorado/USA), 2-29 July 2007
+
+[String theory and the real world - From particle physics to astrophysics](http://www.lpthe.jussieu.fr/houches07/)  
+Les Houches (France), 2-27 July  2007
+
+[13th International Symposium on Particles, Strings and Cosmology (PASCOS-07)](http://www.pascos07.org/)  
+London (UK), 2-7 July 2007
+
+[Benasque workshop: Strings 007](http://benasque.ecm.ub.es/2007strings/2007strings.htm)  
+Benasque (Spain), 1-13 July 2007
+
+[Eurostrings 07](http://hep.physics.uoc.gr/Eurostrings07/)  
+Kolymbari (Crete/Greece), 30 June - 7 July 2007
+
+[Strings 07](http://gesalerico.ft.uam.es/strings07/index.html)  
+Madrid (Spain), 25-29 June 2007
+
+[Symmetry in nonlinear mathematical physics](http://www.imath.kiev.ua/~appmath/conf.html)  
+Kiev (Ukraine), 24-30 June 2007
+
+[Petrov school on recent problems in theoretical and mathematical physics](http://www.ksu.ru/petrov_school/2007/2let_eng.htm)  
+Kazan (Russia), 22 June - 3 July 2007
+
+[Lie theory and its applications in physics](http://theo.inrne.bas.bg/~dobrev/lt-7.htm)  
+Varna (Bulgaria), 18-24 June 2007
+
+[XII Claude Itzykson Conference: Integrability in gauge and string theories](http://www-spht.cea.fr/Meetings/Rencitz2007)  
+Saclay (France), 18-22 June 2007
+
+[School on attractor mechanism](http://www.lnf.infn.it/conference/sam2007)  
+Frascati (Italy), 18-22 June 2007
+
+[Pre-strings 2007: Workshop on Gravitational Aspects of Strings and Branes](http://www.ugr.es/~prestrings2007/)  
+Granada (Spain), 18-22 June 2007
+
+[Twistors, perturbative gauge theories, supergravity and superstrings](http://www.theorie.physik.uni-muenchen.de/Twistor/twistor.html)  
+Munich (Germany), 18-22 June 2007
+
+[Integrable Systems and Quantum Symmetries](http://kmlinux.fjfi.cvut.cz/intsystems/)  
+Prague (Czech Republic), 14-16 June 2007
+
+[Aspects of Membrane Dynamics: Summer school](http://www.math.kth.se/amd/)  
+Stockhom (Sweden), 11-22 June 2007
+
+[From Quantum to Emergent Gravity: Theory and Phenomenology](http://www.sissa.it/app/QGconference/)  
+Trieste (Italy), 11-15 June 2007
+
+[Fourth Regional Meeting in String Theory (Mideast 2007)](http://hep.physics.uoc.gr/mideast4/)  
+Patras (Greece), 10-17 June 2007
+
+[Gravity, Astrophysics and Strings at the Black Sea](http://tcpa.uni-sofia.bg/conf/2007/gas/confind.html)  
+Kiten (Bulgaria), 10-16 June 2007
+
+[Advanced Summer School on Integrable Systems and Quantum Symmetries](http://kmlinux.fjfi.cvut.cz/school/)  
+Prague (Czech Republic), 8-13 June 2007
+
+[Planck 07](http://www.fuw.edu.pl/~susy/Planck07.html)  
+Warsaw (Poland), 8-13 June 2007
+
+[Mini-course on derived categories](http://www.math.utah.edu/dc/)  
+Salt Lake City (USA), 4-16 June 2007
+
+[Logarithmic conformal field theories and statistical mechanics](http://theor.jinr.ru/~lcft07/lcft07/index.html)  
+Dubna (Russia), 4-8 June 2007
+
+[String phenomenology 2007](http://people.roma2.infn.it/~stringpheno2007/)  
+Frascati (Italy), 4-8 June 2007
+
+[TASI: Theoretical Advanced Study Institute in Elementary Particle Physics](http://www.colorado.edu/physics/Web/tasi07_annc.html)  
+Boulder (Colorado/USA), 28 May - 22 June 2007
+
+[The Birth of String Theory](http://theory.fi.infn.it/colomo/string-birth/)  
+Florence (Italy), 18-19 May 2007
+
+[Excursions in the Dark](http://origins.physics.mcmaster.ca/darkenergy/index.html)  
+Waterloo (Ontario/Canada), 18-20 May 2007
+
+[Origins of Dark Energy](http://origins.physics.mcmaster.ca/darkenergy/index.html)  
+Hamilton (Ontario/Canada), 14-17 May 2007
+
+[SIGRAV graduate school: The dark side of the universe](http://www.sigrav.org/Announcements/olmo2007.php)  
+Como (Italy), 14-18 May 2007
+
+[11th Annual UK Meeting on Integrable Models, Conformal Field Theory and Related Topics](http://www.mth.kcl.ac.uk/events/icft07/index.html)  
+London (UK), 11-12 May 2007
+
+[Solvay workshop on Gauge theories, Strings and Geometry](http://www.solvayinstitutes.be/Activities/Upcoming/WorkshopGaugeTheories/GaugeTheories.html)  
+Brussels (Belgium), 9-11 May 2007
+
+[String Theory: Achievements and Perspectives](http://stringfest.tau.ac.il/)  
+Jerusalem/Tel Aviv (Israel), 16-19 April 2007
+
+[School on noncommutative geometry, field theories and quantum gravity](http://www.univ-oran.dz/ncgeo/ncgeo.htm)  
+Oran (Algeria), 14-18 April 2007
+
+[Derived Categories, Non-commutative Geometry and Strings](http://hamilton.tcd.ie/index.php?subsite=main§ion=events&subsection=ncg)  
+Dublin (Ireland), 10-15 April 2007
+
+[IPM String school and workshop](http://physics.ipm.ac.ir/conferences/iss2007/)  
+Tehran (Iran), 9-18 April 2007
+
+[Noncommutative Spacetime Geometries](http://fisicateorica.mfn.unipmn.it/NCG07/index.html)  
+Alessandria (Italy), 26-31 March 2007
+
+[Spring School on superstring theory and related topics](http://cdsagenda5.ictp.trieste.it/full_display.php?ida=a06185)  
+Trieste (Italy), 22-30 March 2007
+
+[New methods in string theory and quantization](http://seenet-mtp.pmf.ni.ac.yu/sq2007/)  
+Nis (Serbia), 22-26 March 2007
+
+[String and M theory approaches to particle physics and cosmology](http://ggi-www.fi.infn.it/activities/workshops/stringM/stringM.html)  
+Florence (Italy), 19 March - 22 June 2007
+
+[Combinatorics and Physics](http://www.mpim-bonn.mpg.de/Events/This+Year+and+Prospect/Combinatorics+and+Physics/)  
+Bonn (Germany), 19-23 March 2007
+
+[International Workshop On Theoretical High Energy Physics](http://www.iitr.ernet.in/thep.htm)  
+Roorkee (India), 15-20 March 2007
+
+[Beyond the standard model](http://www.desy.de/uni-th/stringth/bad-honnef/index.html)  
+Bad Honnef (Germany), 12-15 March 2007
+
+[Workshop on Generalized Geometry and Flux Compactifications](http://www.desy.de/uni-th/stringth/ggfl/ggflhome.html)  
+Hamburg (Germany), 19 February - 1 March 2007
+
+[Latin American school of strings](http://cabtep5.cnea.gov.ar/workshops/lass07/)  
+Bariloche (Argentina), 8-25 January 2007
+
+[RTN Winter School on strings, supergravity and gauge theories](http://www.unine.ch/phys/string/rtn-school/07/index.php)  
+Geneva (Switzerland), 15-19 January 2007
+
+[From Strings to LHC](http://theory.tifr.res.in/~stringslhc)  
+Mumbai (India), 2-10 January 2007
+
+## 1995-2006
+
+
+[Themes in the interface of representation theory and physics](http://www.staff.city.ac.uk/~ra359/annex/ppm/POSTER/POSTER3/Home3.html)  
+London (UK), 11-15 December 2006
+
+[Challenges in particle phenomenology](http://www.univie.ac.at/vienna.seminar/index06.html)  
+Vienna (Austria), 1-3 December 2006
+
+[1st Iberian cosmology meeting](http://faraday.fc.up.pt/cfp/iberian)  
+Porto (Portugal), 1-2 December 2006
+
+[Workshop on Geometric and Renormalization Group Flows](http://www.aei.mpg.de/~olito/WS/)  
+Golm (Germany), 22-24 November 2006
+
+[The Quest for Unification: Theory confronts Experiments, RTN midterm meeting](http://webtheory.sns.it/midterm)  
+Pisa (Italy), 22-24 November 2006
+
+[Strings versus cosmology](http://gesalerico.ft.uam.es/versuscosmo/)  
+Madrid (Spain), 16-17 November 2006
+
+[Noncommutative Geometry and Quantum Spacetime in Physics](http://www2.yukawa.kyoto-u.ac.jp/~nys2006/)  
+Nishinomiya/Kyoto (Japan), 11-15 November 2006
+
+[M-theory in the City](http://www.strings.ph.qmul.ac.uk/~mtheory/)  
+London (UK), 9-11 November 2006
+
+[30 years of supergravity](http://www.lpthe.jussieu.fr/sugra30/)  
+Paris (France), 16-20 October 2006
+
+[Introduction to string theory (String Steilkurs Part 1)](http://www.desy.de/uni-th/stringth/SSK/)  
+Hamburg (Germany), 9-13 October 2006
+
+[Advanced string school](http://string.iopb.res.in/)  
+Bhubaneswar (India), 17-23 September 2006
+
+[Constituents, Fundamental Forces and Symmetries of the Universe, RTN midterm meeting](http://wsrtn06.na.infn.it/)  
+Napoli (Italy), 9-13 October 2006
+
+[Mensa colloquium 2006: revolution in cosmology](http://colloq06.us.mensa.org/)  
+Albany (New York/USA), 6-8 October 2006
+
+[Dark Matter and Dark Energy](http://isapp06na.na.infn.it/)  
+Sorrento (Italy), 29 September - 5 October 2006
+
+Strings 2006  
+Beijing (China), June 2006
+
+[Cargèse school on Strings and Branes: The present paradigm for gauge interactions and cosmology](http://string.lpthe.jussieu.fr/cargese/2006/)  
+Cargèse (Corsica/France), 22 May - 3 June 2006
+
+[Strings 2005](http://www.fields.utoronto.ca/programs/scientific/04-05/string-theory/strings2005/)  
+Toronto (Canada), 11-16 July 2005
+
+[Strings 2004](http://strings04.lpthe.jussieu.fr/)  
+Paris (France), 28 June-2 July 2004
+
+[Strings 2003](http://www.yukawa.kyoto-u.ac.jp/contents/seminar/archive/2003/str2003/)  
+Kyoto (Japan), 6-11 July 2003
+
+[Strings 2002](http://www.damtp.cam.ac.uk/strings02/)  
+Cambridge (UK), 15-20 July 2002
+
+[Strings 2001](http://theory.tifr.res.in/strings/)  
+Mumbai (India), 5-10 January 2001
+
+[Strings 2000](http://feynman.physics.lsa.umich.edu/strings2000/)  
+Michigan (USA), 10-15 July 2000
+
+[Strings 1999](http://strings99.aei.mpg.de/)  
+Potsdam (Germany), 19-24 July 1999
+
+[Strings 1998](http://online.kitp.ucsb.edu/online/strings98/)  
+Santa Barbara (California, USA), 22-27 June 1998
+
+[Strings 1997](http://www.science.uva.nl/research/strings97/)  
+Amsterdam (Netherlands), 16-21 June 1997
+
+[Strings 1996](http://www.itp.ucsb.edu/~joep/proceedings.html)  
+Santa Barbara (California, USA), 15-20 July 1996
+
+[Strings 1995](http://physics.usc.edu/Strings95/)  
+Los Angeles (USA), 13-18 March 1995
