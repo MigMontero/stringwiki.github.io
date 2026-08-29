@@ -2,7 +2,7 @@
 *.xml.gz
 *.org
 \#*\#
-string-cropped.jpg
+/string-cropped.jpg
 
 # Local build artefacts.
 .venv/
