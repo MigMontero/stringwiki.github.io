@@ -1,13 +1,12 @@
 # String Theory Wiki
 
-The static successor to the [stringwiki.org](https://stringwiki.org/)
-mediawiki instance. Its pages are stored in Markdown files in
+The static successor to the MediaWiki-based String Theory Wiki. Its pages are stored in Markdown files in
 [`docs/`](docs/), built with MkDocs Material and published through
 GitHub Pages.
 
 Currently hosted at:
 
-<https://stringwiki.github.io/stringwiki/>
+<https://stringwiki.github.io/>
 
 ## Local preview
 

@@ -1,6 +1,6 @@
 site_name: String Theory Wiki
 site_description: Resources for learning string theory
-site_url: https://stringwiki.org
+site_url: https://stringwiki.github.io
 
 theme:
   name: material
