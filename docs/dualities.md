@@ -4,7 +4,7 @@ title: 'Dualities'
 
 # Dualities
 
-see also [Gauge Theory](gauge-theory.md), [Supersymmetry](supersymmetry.md)
+see also [Gauge Theory](gauge-theory.md), [Supersymmetry and Supergravity](supersymmetry-and-supergravity.md)
 
 ### reviews
 [Lectures on Superstring and M Theory Dualities](http://arxiv.org/abs/hep-th/9607201)  
