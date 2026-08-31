@@ -57,6 +57,9 @@ YITP, Kyoto (Japan), 24 May - 26 June 2027
 [Thermal quantum fields, holography and black holes](https://www.ggi.infn.it/showevent.pl?id=565)  
 GGI, Florence (Italy), 5 April - 7 May 2027
 
+CERN Winter School on Supergravity, Strings and Gauge Theory 2027
+CERN, Geneva (Switzerland), 8 February - 12 February 2027
+
 [Iberian Strings 2027](https://sites.google.com/view/iberianstrings2027/home?authuser=3)   
 Instituto Superior Técnico, Lisbon (Portugal), 19-21 January 2027
 
