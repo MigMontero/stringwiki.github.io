@@ -63,6 +63,8 @@ Instituto Superior Técnico, Lisbon (Portugal), 19-21 January 2027
 [Large N: Resurgent vs Erratic?](https://indico.cern.ch/event/1715083/)    
 CERN, Geneva (Switzerland), 18-22 January 2027
 
+[21st Asian Winter School on Strings, Particles and Cosmology](https://symposia.kias.re.kr/aws2027)   
+KAIST, Daejeon (Korea), 11-22 Jan 2027
 
 
 ## 2026
