@@ -54,6 +54,9 @@ MITP, Mainz (Germany), 31 May - 4 June 2027
 YITP long term workshop: Quantum Information and Gravitational Holography  
 YITP, Kyoto (Japan), 24 May - 26 June 2027
 
+Strings and Geometry 2027    
+Peking University, Beijing (China), 11-14 May 2027
+
 [Thermal quantum fields, holography and black holes](https://www.ggi.infn.it/showevent.pl?id=565)  
 GGI, Florence (Italy), 5 April - 7 May 2027
 
